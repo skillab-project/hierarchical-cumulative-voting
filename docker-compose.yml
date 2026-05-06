@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  hierarchical-cumulative-voting:
+    image: ${DOCKER_REG}${DOCKER_REPO}${APP_NAME}:${DOCKER_TAG}
+    container_name: hierarchical-cumulative-voting
+    build: .
+    ports:
+      - "8872:8000"
+    volumes:
+      - app_hcv:/app/Completed_Analyses
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TRACKER_API=https://skillab-tracker.csd.auth.gr/api
+    labels:
+      io.portainer.accesscontrol.teams: skillab-all
+    restart: unless-stopped
+
+volumes:
+  app_hcv:
+    labels:
+      io.portainer.accesscontrol.teams: skillab-all
