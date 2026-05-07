@@ -263,7 +263,7 @@ hierarchical-cumulative-voting/
 - **python-dotenv** — Environment variable management
 - **Docker / Docker Compose** — Containerised deployment
 
----
+--- 
 
 ## License
 
