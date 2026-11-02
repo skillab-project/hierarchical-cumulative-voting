@@ -385,13 +385,15 @@ def perform_turf_analysis_subset(df, n_skills, skill_labels_dict, combinations):
             frequency_count = 0
             frequency = 0
 
-        combo_list = list(combo)
-        combination_string = combo_list[0]
-        for i in range(1, len(combo_list)):
-            combination_string += '+' + combo_list[i]
+        # Map ESCO skill IDs (conceptUri) to their human-readable labels;
+        # fall back to the raw ID if a label is missing.
+        combo_labels = [skill_labels_dict.get(skill_id, skill_id) for skill_id in combo]
+        combination_string = '+'.join(combo_labels)
 
         turf_results.append({
             'Combination': combination_string,
+            'Skills': combo_labels,
+            'Skill IDs': list(combo),
             'Reach': reach,
             'Reach %': round(reach_percentage, 2),
             'Frequency': frequency_count,
