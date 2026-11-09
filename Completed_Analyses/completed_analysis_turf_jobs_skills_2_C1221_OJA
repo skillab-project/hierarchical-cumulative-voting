@@ -1,0 +1,3042 @@
+[
+    {
+        "Combination": "manage sales teams+sales activities",
+        "Skills": [
+            "manage sales teams",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 93,
+        "Reach %": 53.76,
+        "Frequency": 105,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+use microsoft office",
+        "Skills": [
+            "manage sales teams",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 89,
+        "Reach %": 51.45,
+        "Frequency": 99,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+negotiate compromises",
+        "Skills": [
+            "manage sales teams",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 84,
+        "Reach %": 48.55,
+        "Frequency": 101,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+negotiate compromises",
+        "Skills": [
+            "sales activities",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 82,
+        "Reach %": 47.4,
+        "Frequency": 100,
+        "Frequency Ratio": 1.22,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+communication",
+        "Skills": [
+            "manage sales teams",
+            "communication"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7"
+        ],
+        "Reach": 80,
+        "Reach %": 46.24,
+        "Frequency": 90,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+implement sales strategies",
+        "Skills": [
+            "manage sales teams",
+            "implement sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8"
+        ],
+        "Reach": 76,
+        "Reach %": 43.93,
+        "Frequency": 89,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+use microsoft office",
+        "Skills": [
+            "sales activities",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 75,
+        "Reach %": 43.35,
+        "Frequency": 98,
+        "Frequency Ratio": 1.31,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+implement sales strategies",
+        "Skills": [
+            "use microsoft office",
+            "implement sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8"
+        ],
+        "Reach": 72,
+        "Reach %": 41.62,
+        "Frequency": 82,
+        "Frequency Ratio": 1.14,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+use microsoft office",
+        "Skills": [
+            "negotiate compromises",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 71,
+        "Reach %": 41.04,
+        "Frequency": 94,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+implement sales strategies",
+        "Skills": [
+            "sales activities",
+            "implement sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8"
+        ],
+        "Reach": 71,
+        "Reach %": 41.04,
+        "Frequency": 88,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+maintain relationship with customers",
+        "Skills": [
+            "sales activities",
+            "maintain relationship with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae"
+        ],
+        "Reach": 71,
+        "Reach %": 41.04,
+        "Frequency": 80,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+manage personal professional development",
+        "Skills": [
+            "manage sales teams",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 71,
+        "Reach %": 41.04,
+        "Frequency": 76,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+achieve sales targets",
+        "Skills": [
+            "sales activities",
+            "achieve sales targets"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352"
+        ],
+        "Reach": 70,
+        "Reach %": 40.46,
+        "Frequency": 76,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+maintain relationship with customers",
+        "Skills": [
+            "manage sales teams",
+            "maintain relationship with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae"
+        ],
+        "Reach": 69,
+        "Reach %": 39.88,
+        "Frequency": 81,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+maintain relationship with customers",
+        "Skills": [
+            "negotiate compromises",
+            "maintain relationship with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae"
+        ],
+        "Reach": 69,
+        "Reach %": 39.88,
+        "Frequency": 76,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+maintain relationship with customers",
+        "Skills": [
+            "use microsoft office",
+            "maintain relationship with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae"
+        ],
+        "Reach": 69,
+        "Reach %": 39.88,
+        "Frequency": 74,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+interact with users to gather requirements",
+        "Skills": [
+            "manage sales teams",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 69,
+        "Reach %": 39.88,
+        "Frequency": 73,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+interact with users to gather requirements",
+        "Skills": [
+            "sales activities",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 69,
+        "Reach %": 39.88,
+        "Frequency": 72,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+achieve sales targets",
+        "Skills": [
+            "use microsoft office",
+            "achieve sales targets"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352"
+        ],
+        "Reach": 69,
+        "Reach %": 39.88,
+        "Frequency": 70,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+market analysis",
+        "Skills": [
+            "sales activities",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 68,
+        "Reach %": 39.31,
+        "Frequency": 68,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+communication",
+        "Skills": [
+            "sales activities",
+            "communication"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7"
+        ],
+        "Reach": 67,
+        "Reach %": 38.73,
+        "Frequency": 89,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+office software",
+        "Skills": [
+            "manage sales teams",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 67,
+        "Reach %": 38.73,
+        "Frequency": 72,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+communication",
+        "Skills": [
+            "use microsoft office",
+            "communication"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7"
+        ],
+        "Reach": 66,
+        "Reach %": 38.15,
+        "Frequency": 83,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+market analysis",
+        "Skills": [
+            "manage sales teams",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 66,
+        "Reach %": 38.15,
+        "Frequency": 69,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+Greek",
+        "Skills": [
+            "sales activities",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 66,
+        "Reach %": 38.15,
+        "Frequency": 68,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+advertising techniques",
+        "Skills": [
+            "manage sales teams",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 66,
+        "Reach %": 38.15,
+        "Frequency": 66,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+implement sales strategies",
+        "Skills": [
+            "negotiate compromises",
+            "implement sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8"
+        ],
+        "Reach": 65,
+        "Reach %": 37.57,
+        "Frequency": 84,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+assume responsibility",
+        "Skills": [
+            "manage sales teams",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 65,
+        "Reach %": 37.57,
+        "Frequency": 71,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+prospect new customers",
+        "Skills": [
+            "manage sales teams",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 65,
+        "Reach %": 37.57,
+        "Frequency": 69,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+sales strategies",
+        "Skills": [
+            "manage sales teams",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 65,
+        "Reach %": 37.57,
+        "Frequency": 68,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+prospect new customers",
+        "Skills": [
+            "sales activities",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 65,
+        "Reach %": 37.57,
+        "Frequency": 68,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+advertising techniques",
+        "Skills": [
+            "sales activities",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 65,
+        "Reach %": 37.57,
+        "Frequency": 65,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+achieve sales targets",
+        "Skills": [
+            "manage sales teams",
+            "achieve sales targets"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352"
+        ],
+        "Reach": 64,
+        "Reach %": 36.99,
+        "Frequency": 77,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+office software",
+        "Skills": [
+            "sales activities",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 64,
+        "Reach %": 36.99,
+        "Frequency": 71,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+interact with users to gather requirements",
+        "Skills": [
+            "negotiate compromises",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 64,
+        "Reach %": 36.99,
+        "Frequency": 68,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+use presentation software",
+        "Skills": [
+            "manage sales teams",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 64,
+        "Reach %": 36.99,
+        "Frequency": 67,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+show initiative",
+        "Skills": [
+            "manage sales teams",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 64,
+        "Reach %": 36.99,
+        "Frequency": 66,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+office software",
+        "Skills": [
+            "use microsoft office",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 64,
+        "Reach %": 36.99,
+        "Frequency": 65,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+communication",
+        "Skills": [
+            "negotiate compromises",
+            "communication"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7"
+        ],
+        "Reach": 63,
+        "Reach %": 36.42,
+        "Frequency": 85,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+assume responsibility",
+        "Skills": [
+            "sales activities",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 63,
+        "Reach %": 36.42,
+        "Frequency": 70,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+English",
+        "Skills": [
+            "manage sales teams",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 63,
+        "Reach %": 36.42,
+        "Frequency": 68,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+sales strategies",
+        "Skills": [
+            "sales activities",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 63,
+        "Reach %": 36.42,
+        "Frequency": 67,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+Greek",
+        "Skills": [
+            "negotiate compromises",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 63,
+        "Reach %": 36.42,
+        "Frequency": 64,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage sales teams+Greek",
+        "Skills": [
+            "manage sales teams",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 62,
+        "Reach %": 35.84,
+        "Frequency": 69,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+office software",
+        "Skills": [
+            "negotiate compromises",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 62,
+        "Reach %": 35.84,
+        "Frequency": 67,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+use presentation software",
+        "Skills": [
+            "sales activities",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 62,
+        "Reach %": 35.84,
+        "Frequency": 66,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+interact with users to gather requirements",
+        "Skills": [
+            "use microsoft office",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 62,
+        "Reach %": 35.84,
+        "Frequency": 66,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+prospect new customers",
+        "Skills": [
+            "negotiate compromises",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 62,
+        "Reach %": 35.84,
+        "Frequency": 64,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+achieve sales targets",
+        "Skills": [
+            "negotiate compromises",
+            "achieve sales targets"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352"
+        ],
+        "Reach": 61,
+        "Reach %": 35.26,
+        "Frequency": 72,
+        "Frequency Ratio": 1.18,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+English",
+        "Skills": [
+            "sales activities",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 61,
+        "Reach %": 35.26,
+        "Frequency": 67,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+advertising techniques",
+        "Skills": [
+            "negotiate compromises",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 61,
+        "Reach %": 35.26,
+        "Frequency": 61,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+assume responsibility",
+        "Skills": [
+            "use microsoft office",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 60,
+        "Reach %": 34.68,
+        "Frequency": 64,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+use presentation software",
+        "Skills": [
+            "negotiate compromises",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 60,
+        "Reach %": 34.68,
+        "Frequency": 62,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+market analysis",
+        "Skills": [
+            "use microsoft office",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 60,
+        "Reach %": 34.68,
+        "Frequency": 62,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+Greek",
+        "Skills": [
+            "use microsoft office",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 60,
+        "Reach %": 34.68,
+        "Frequency": 62,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+implement sales strategies",
+        "Skills": [
+            "communication",
+            "implement sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8"
+        ],
+        "Reach": 59,
+        "Reach %": 34.1,
+        "Frequency": 73,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+assume responsibility",
+        "Skills": [
+            "negotiate compromises",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 59,
+        "Reach %": 34.1,
+        "Frequency": 66,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+show initiative",
+        "Skills": [
+            "sales activities",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 59,
+        "Reach %": 34.1,
+        "Frequency": 65,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+sales strategies",
+        "Skills": [
+            "use microsoft office",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 59,
+        "Reach %": 34.1,
+        "Frequency": 61,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+manage personal professional development",
+        "Skills": [
+            "sales activities",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 58,
+        "Reach %": 33.53,
+        "Frequency": 75,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+maintain relationship with customers",
+        "Skills": [
+            "communication",
+            "maintain relationship with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae"
+        ],
+        "Reach": 58,
+        "Reach %": 33.53,
+        "Frequency": 65,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+sales strategies",
+        "Skills": [
+            "negotiate compromises",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 58,
+        "Reach %": 33.53,
+        "Frequency": 63,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+prospect new customers",
+        "Skills": [
+            "use microsoft office",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 58,
+        "Reach %": 33.53,
+        "Frequency": 62,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+show initiative",
+        "Skills": [
+            "negotiate compromises",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 58,
+        "Reach %": 33.53,
+        "Frequency": 61,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+use presentation software",
+        "Skills": [
+            "use microsoft office",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 58,
+        "Reach %": 33.53,
+        "Frequency": 60,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+market analysis",
+        "Skills": [
+            "negotiate compromises",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 57,
+        "Reach %": 32.95,
+        "Frequency": 64,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+show initiative",
+        "Skills": [
+            "use microsoft office",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 57,
+        "Reach %": 32.95,
+        "Frequency": 59,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+advertising techniques",
+        "Skills": [
+            "use microsoft office",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 57,
+        "Reach %": 32.95,
+        "Frequency": 59,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+English",
+        "Skills": [
+            "negotiate compromises",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 56,
+        "Reach %": 32.37,
+        "Frequency": 63,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+manage personal professional development",
+        "Skills": [
+            "use microsoft office",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 55,
+        "Reach %": 31.79,
+        "Frequency": 69,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+achieve sales targets",
+        "Skills": [
+            "communication",
+            "achieve sales targets"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352"
+        ],
+        "Reach": 55,
+        "Reach %": 31.79,
+        "Frequency": 61,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+interact with users to gather requirements",
+        "Skills": [
+            "communication",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 55,
+        "Reach %": 31.79,
+        "Frequency": 57,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+manage personal professional development",
+        "Skills": [
+            "negotiate compromises",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 54,
+        "Reach %": 31.21,
+        "Frequency": 71,
+        "Frequency Ratio": 1.31,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+English",
+        "Skills": [
+            "use microsoft office",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 54,
+        "Reach %": 31.21,
+        "Frequency": 61,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+office software",
+        "Skills": [
+            "communication",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 54,
+        "Reach %": 31.21,
+        "Frequency": 56,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+maintain relationship with customers",
+        "Skills": [
+            "implement sales strategies",
+            "maintain relationship with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 64,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+assume responsibility",
+        "Skills": [
+            "communication",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 55,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+office software",
+        "Skills": [
+            "implement sales strategies",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 55,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+assume responsibility",
+        "Skills": [
+            "implement sales strategies",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 54,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+market analysis",
+        "Skills": [
+            "communication",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 53,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+prospect new customers",
+        "Skills": [
+            "communication",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 53,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+Greek",
+        "Skills": [
+            "communication",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 53,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+prospect new customers",
+        "Skills": [
+            "implement sales strategies",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 52,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+Greek",
+        "Skills": [
+            "implement sales strategies",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 52,
+        "Reach %": 30.06,
+        "Frequency": 52,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+achieve sales targets",
+        "Skills": [
+            "implement sales strategies",
+            "achieve sales targets"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352"
+        ],
+        "Reach": 51,
+        "Reach %": 29.48,
+        "Frequency": 60,
+        "Frequency Ratio": 1.18,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+English",
+        "Skills": [
+            "implement sales strategies",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 50,
+        "Reach %": 28.9,
+        "Frequency": 51,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+advertising techniques",
+        "Skills": [
+            "communication",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 50,
+        "Reach %": 28.9,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+manage personal professional development",
+        "Skills": [
+            "implement sales strategies",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 49,
+        "Reach %": 28.32,
+        "Frequency": 59,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+English",
+        "Skills": [
+            "communication",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 49,
+        "Reach %": 28.32,
+        "Frequency": 52,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+use presentation software",
+        "Skills": [
+            "communication",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 49,
+        "Reach %": 28.32,
+        "Frequency": 51,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+manage personal professional development",
+        "Skills": [
+            "maintain relationship with customers",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 49,
+        "Reach %": 28.32,
+        "Frequency": 51,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+advertising techniques",
+        "Skills": [
+            "implement sales strategies",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 49,
+        "Reach %": 28.32,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+interact with users to gather requirements",
+        "Skills": [
+            "implement sales strategies",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 48,
+        "Reach %": 27.75,
+        "Frequency": 56,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+market analysis",
+        "Skills": [
+            "implement sales strategies",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 48,
+        "Reach %": 27.75,
+        "Frequency": 52,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+use presentation software",
+        "Skills": [
+            "implement sales strategies",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 47,
+        "Reach %": 27.17,
+        "Frequency": 50,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+show initiative",
+        "Skills": [
+            "implement sales strategies",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 47,
+        "Reach %": 27.17,
+        "Frequency": 49,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+sales strategies",
+        "Skills": [
+            "communication",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 46,
+        "Reach %": 26.59,
+        "Frequency": 52,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+show initiative",
+        "Skills": [
+            "communication",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 46,
+        "Reach %": 26.59,
+        "Frequency": 50,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+achieve sales targets",
+        "Skills": [
+            "maintain relationship with customers",
+            "achieve sales targets"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352"
+        ],
+        "Reach": 45,
+        "Reach %": 26.01,
+        "Frequency": 52,
+        "Frequency Ratio": 1.16,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "implement sales strategies+sales strategies",
+        "Skills": [
+            "implement sales strategies",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b99aa3b8-0066-46b2-a027-30afae444ad8",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 45,
+        "Reach %": 26.01,
+        "Frequency": 51,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+assume responsibility",
+        "Skills": [
+            "maintain relationship with customers",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 45,
+        "Reach %": 26.01,
+        "Frequency": 46,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+manage personal professional development",
+        "Skills": [
+            "achieve sales targets",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 44,
+        "Reach %": 25.43,
+        "Frequency": 47,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+market analysis",
+        "Skills": [
+            "maintain relationship with customers",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 44,
+        "Reach %": 25.43,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+interact with users to gather requirements",
+        "Skills": [
+            "manage personal professional development",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 43,
+        "Reach %": 24.86,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+manage personal professional development",
+        "Skills": [
+            "communication",
+            "manage personal professional development"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612"
+        ],
+        "Reach": 42,
+        "Reach %": 24.28,
+        "Frequency": 60,
+        "Frequency Ratio": 1.43,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+prospect new customers",
+        "Skills": [
+            "maintain relationship with customers",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 42,
+        "Reach %": 24.28,
+        "Frequency": 44,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+Greek",
+        "Skills": [
+            "maintain relationship with customers",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 42,
+        "Reach %": 24.28,
+        "Frequency": 44,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+office software",
+        "Skills": [
+            "manage personal professional development",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 42,
+        "Reach %": 24.28,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+sales strategies",
+        "Skills": [
+            "maintain relationship with customers",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 41,
+        "Reach %": 23.7,
+        "Frequency": 43,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+advertising techniques",
+        "Skills": [
+            "maintain relationship with customers",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 41,
+        "Reach %": 23.7,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+office software",
+        "Skills": [
+            "maintain relationship with customers",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 40,
+        "Reach %": 23.12,
+        "Frequency": 47,
+        "Frequency Ratio": 1.18,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+interact with users to gather requirements",
+        "Skills": [
+            "achieve sales targets",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 40,
+        "Reach %": 23.12,
+        "Frequency": 44,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+English",
+        "Skills": [
+            "maintain relationship with customers",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 40,
+        "Reach %": 23.12,
+        "Frequency": 43,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+assume responsibility",
+        "Skills": [
+            "achieve sales targets",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 40,
+        "Reach %": 23.12,
+        "Frequency": 42,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+show initiative",
+        "Skills": [
+            "maintain relationship with customers",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 40,
+        "Reach %": 23.12,
+        "Frequency": 41,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+assume responsibility",
+        "Skills": [
+            "manage personal professional development",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 40,
+        "Reach %": 23.12,
+        "Frequency": 41,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+interact with users to gather requirements",
+        "Skills": [
+            "maintain relationship with customers",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 39,
+        "Reach %": 22.54,
+        "Frequency": 48,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+English",
+        "Skills": [
+            "achieve sales targets",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 39,
+        "Reach %": 22.54,
+        "Frequency": 39,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+market analysis",
+        "Skills": [
+            "manage personal professional development",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 39,
+        "Reach %": 22.54,
+        "Frequency": 39,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+prospect new customers",
+        "Skills": [
+            "manage personal professional development",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 39,
+        "Reach %": 22.54,
+        "Frequency": 39,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+Greek",
+        "Skills": [
+            "manage personal professional development",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 39,
+        "Reach %": 22.54,
+        "Frequency": 39,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+office software",
+        "Skills": [
+            "achieve sales targets",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 38,
+        "Reach %": 21.97,
+        "Frequency": 43,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+Greek",
+        "Skills": [
+            "achieve sales targets",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 38,
+        "Reach %": 21.97,
+        "Frequency": 40,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "maintain relationship with customers+use presentation software",
+        "Skills": [
+            "maintain relationship with customers",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2239694b-771a-4586-8b54-2794e361a9ae",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 37,
+        "Reach %": 21.39,
+        "Frequency": 42,
+        "Frequency Ratio": 1.14,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+use presentation software",
+        "Skills": [
+            "achieve sales targets",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 37,
+        "Reach %": 21.39,
+        "Frequency": 38,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+advertising techniques",
+        "Skills": [
+            "achieve sales targets",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 37,
+        "Reach %": 21.39,
+        "Frequency": 37,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+English",
+        "Skills": [
+            "manage personal professional development",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 36,
+        "Reach %": 20.81,
+        "Frequency": 38,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+assume responsibility",
+        "Skills": [
+            "interact with users to gather requirements",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 36,
+        "Reach %": 20.81,
+        "Frequency": 38,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+show initiative",
+        "Skills": [
+            "achieve sales targets",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 36,
+        "Reach %": 20.81,
+        "Frequency": 37,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+use presentation software",
+        "Skills": [
+            "manage personal professional development",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 36,
+        "Reach %": 20.81,
+        "Frequency": 37,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+show initiative",
+        "Skills": [
+            "manage personal professional development",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 36,
+        "Reach %": 20.81,
+        "Frequency": 36,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+advertising techniques",
+        "Skills": [
+            "manage personal professional development",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 36,
+        "Reach %": 20.81,
+        "Frequency": 36,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+market analysis",
+        "Skills": [
+            "interact with users to gather requirements",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 36,
+        "Reach %": 20.81,
+        "Frequency": 36,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+prospect new customers",
+        "Skills": [
+            "achieve sales targets",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 35,
+        "Reach %": 20.23,
+        "Frequency": 40,
+        "Frequency Ratio": 1.14,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+office software",
+        "Skills": [
+            "interact with users to gather requirements",
+            "office software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2"
+        ],
+        "Reach": 35,
+        "Reach %": 20.23,
+        "Frequency": 39,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "manage personal professional development+sales strategies",
+        "Skills": [
+            "manage personal professional development",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 35,
+        "Reach %": 20.23,
+        "Frequency": 38,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+assume responsibility",
+        "Skills": [
+            "office software",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 35,
+        "Reach %": 20.23,
+        "Frequency": 37,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+prospect new customers",
+        "Skills": [
+            "interact with users to gather requirements",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 35,
+        "Reach %": 20.23,
+        "Frequency": 36,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+Greek",
+        "Skills": [
+            "interact with users to gather requirements",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 35,
+        "Reach %": 20.23,
+        "Frequency": 36,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+market analysis",
+        "Skills": [
+            "achieve sales targets",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 34,
+        "Reach %": 19.65,
+        "Frequency": 40,
+        "Frequency Ratio": 1.18,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+sales strategies",
+        "Skills": [
+            "interact with users to gather requirements",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 34,
+        "Reach %": 19.65,
+        "Frequency": 35,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+sales strategies",
+        "Skills": [
+            "office software",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 34,
+        "Reach %": 19.65,
+        "Frequency": 34,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+prospect new customers",
+        "Skills": [
+            "assume responsibility",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 34,
+        "Reach %": 19.65,
+        "Frequency": 34,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+Greek",
+        "Skills": [
+            "assume responsibility",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 34,
+        "Reach %": 19.65,
+        "Frequency": 34,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+English",
+        "Skills": [
+            "interact with users to gather requirements",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 33,
+        "Reach %": 19.08,
+        "Frequency": 35,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+English",
+        "Skills": [
+            "office software",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 33,
+        "Reach %": 19.08,
+        "Frequency": 34,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+advertising techniques",
+        "Skills": [
+            "interact with users to gather requirements",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 33,
+        "Reach %": 19.08,
+        "Frequency": 33,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+market analysis",
+        "Skills": [
+            "office software",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 32,
+        "Reach %": 18.5,
+        "Frequency": 35,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+prospect new customers",
+        "Skills": [
+            "office software",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 32,
+        "Reach %": 18.5,
+        "Frequency": 35,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+use presentation software",
+        "Skills": [
+            "interact with users to gather requirements",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 32,
+        "Reach %": 18.5,
+        "Frequency": 34,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+market analysis",
+        "Skills": [
+            "assume responsibility",
+            "market analysis"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a"
+        ],
+        "Reach": 32,
+        "Reach %": 18.5,
+        "Frequency": 34,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+advertising techniques",
+        "Skills": [
+            "office software",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 32,
+        "Reach %": 18.5,
+        "Frequency": 32,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "market analysis+Greek",
+        "Skills": [
+            "market analysis",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 32,
+        "Reach %": 18.5,
+        "Frequency": 32,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+Greek",
+        "Skills": [
+            "office software",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 31,
+        "Reach %": 17.92,
+        "Frequency": 35,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+show initiative",
+        "Skills": [
+            "interact with users to gather requirements",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 31,
+        "Reach %": 17.92,
+        "Frequency": 33,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "prospect new customers+Greek",
+        "Skills": [
+            "prospect new customers",
+            "Greek"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8",
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7"
+        ],
+        "Reach": 31,
+        "Reach %": 17.92,
+        "Frequency": 32,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+advertising techniques",
+        "Skills": [
+            "assume responsibility",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 31,
+        "Reach %": 17.92,
+        "Frequency": 31,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "Greek+English",
+        "Skills": [
+            "Greek",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 31,
+        "Reach %": 17.92,
+        "Frequency": 31,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+use presentation software",
+        "Skills": [
+            "office software",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 33,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+English",
+        "Skills": [
+            "assume responsibility",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 33,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+sales strategies",
+        "Skills": [
+            "assume responsibility",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 33,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+use presentation software",
+        "Skills": [
+            "assume responsibility",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 32,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "market analysis+prospect new customers",
+        "Skills": [
+            "market analysis",
+            "prospect new customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 32,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+show initiative",
+        "Skills": [
+            "assume responsibility",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 31,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "market analysis+English",
+        "Skills": [
+            "market analysis",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 31,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "prospect new customers+English",
+        "Skills": [
+            "prospect new customers",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 31,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "Greek+sales strategies",
+        "Skills": [
+            "Greek",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 31,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "market analysis+use presentation software",
+        "Skills": [
+            "market analysis",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 30,
+        "Reach %": 17.34,
+        "Frequency": 30,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "achieve sales targets+sales strategies",
+        "Skills": [
+            "achieve sales targets",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c09bf6d4-f8a7-40f3-aead-ef01643f2352",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 39,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "office software+show initiative",
+        "Skills": [
+            "office software",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/cf310cff-0d28-4dbc-9dbb-cc500a3196c2",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 32,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "prospect new customers+sales strategies",
+        "Skills": [
+            "prospect new customers",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 31,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "prospect new customers+use presentation software",
+        "Skills": [
+            "prospect new customers",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 30,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "market analysis+advertising techniques",
+        "Skills": [
+            "market analysis",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 29,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "prospect new customers+advertising techniques",
+        "Skills": [
+            "prospect new customers",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 29,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "Greek+show initiative",
+        "Skills": [
+            "Greek",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 29,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "Greek+advertising techniques",
+        "Skills": [
+            "Greek",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 29,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+use presentation software",
+        "Skills": [
+            "English",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 29,
+        "Reach %": 16.76,
+        "Frequency": 29,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+sales strategies",
+        "Skills": [
+            "English",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 28,
+        "Reach %": 16.18,
+        "Frequency": 30,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "market analysis+show initiative",
+        "Skills": [
+            "market analysis",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 28,
+        "Reach %": 16.18,
+        "Frequency": 29,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "prospect new customers+show initiative",
+        "Skills": [
+            "prospect new customers",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d97bf55-6fb6-4795-8282-3ef915ae0bb8",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 28,
+        "Reach %": 16.18,
+        "Frequency": 29,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales strategies+use presentation software",
+        "Skills": [
+            "sales strategies",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 28,
+        "Reach %": 16.18,
+        "Frequency": 29,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales strategies+show initiative",
+        "Skills": [
+            "sales strategies",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 28,
+        "Reach %": 16.18,
+        "Frequency": 28,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales strategies+advertising techniques",
+        "Skills": [
+            "sales strategies",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 28,
+        "Reach %": 16.18,
+        "Frequency": 28,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "Greek+use presentation software",
+        "Skills": [
+            "Greek",
+            "use presentation software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ea4ebfa1-e17a-4416-ac54-955f33e6ade7",
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb"
+        ],
+        "Reach": 27,
+        "Reach %": 15.61,
+        "Frequency": 30,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+show initiative",
+        "Skills": [
+            "English",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 27,
+        "Reach %": 15.61,
+        "Frequency": 28,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use presentation software+advertising techniques",
+        "Skills": [
+            "use presentation software",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 27,
+        "Reach %": 15.61,
+        "Frequency": 27,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "market analysis+sales strategies",
+        "Skills": [
+            "market analysis",
+            "sales strategies"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b011c8b4-76e1-4bbc-8bb9-1d205e7b618a",
+            "http://data.europa.eu/esco/skill/e7219848-a27a-4bf4-8775-d367707be7c9"
+        ],
+        "Reach": 26,
+        "Reach %": 15.03,
+        "Frequency": 31,
+        "Frequency Ratio": 1.19,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+advertising techniques",
+        "Skills": [
+            "English",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 26,
+        "Reach %": 15.03,
+        "Frequency": 28,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use presentation software+show initiative",
+        "Skills": [
+            "use presentation software",
+            "show initiative"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/234aeb8d-56c3-4531-9193-1c5e6a8d16cb",
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f"
+        ],
+        "Reach": 26,
+        "Reach %": 15.03,
+        "Frequency": 27,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "show initiative+advertising techniques",
+        "Skills": [
+            "show initiative",
+            "advertising techniques"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f",
+            "http://data.europa.eu/esco/skill/aba1f05b-f312-47d8-be71-7c574134de8f"
+        ],
+        "Reach": 26,
+        "Reach %": 15.03,
+        "Frequency": 26,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    }
+]

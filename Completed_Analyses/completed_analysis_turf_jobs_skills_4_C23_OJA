@@ -1,0 +1,4202 @@
+[
+    {
+        "Combination": "communication+assume responsibility+facilitate teamwork between students+teach philosophy",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "teach philosophy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 12,
+        "Frequency Ratio": 4.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+facilitate teamwork between students+develop digital educational materials",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "develop digital educational materials"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 12,
+        "Frequency Ratio": 4.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+teach philosophy+develop digital educational materials",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "teach philosophy",
+            "develop digital educational materials"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 12,
+        "Frequency Ratio": 4.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+teach philosophy+develop digital educational materials",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "develop digital educational materials"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 12,
+        "Frequency Ratio": 4.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+teach philosophy+develop digital educational materials",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "develop digital educational materials"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 12,
+        "Frequency Ratio": 4.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+facilitate teamwork between students+innovation processes",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+teach philosophy+innovation processes",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "teach philosophy",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+develop digital educational materials+innovation processes",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "develop digital educational materials",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+teach philosophy+innovation processes",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+develop digital educational materials+innovation processes",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+develop digital educational materials+innovation processes",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "develop digital educational materials",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+teach philosophy+innovation processes",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+develop digital educational materials+innovation processes",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+develop digital educational materials+innovation processes",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "develop digital educational materials",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+develop digital educational materials+innovation processes",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "develop digital educational materials",
+            "innovation processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 11,
+        "Frequency Ratio": 3.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+facilitate teamwork between students+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+facilitate teamwork between students+build business relationships",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+facilitate teamwork between students+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+facilitate teamwork between students+evaluate training",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+teach philosophy+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "teach philosophy",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+teach philosophy+build business relationships",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "teach philosophy",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+teach philosophy+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "teach philosophy",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+teach philosophy+evaluate training",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "teach philosophy",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+develop digital educational materials+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "develop digital educational materials",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+develop digital educational materials+build business relationships",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "develop digital educational materials",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+develop digital educational materials+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "develop digital educational materials",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+develop digital educational materials+evaluate training",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "develop digital educational materials",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+teach philosophy+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+teach philosophy+build business relationships",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+teach philosophy+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+teach philosophy+evaluate training",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+develop digital educational materials+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+develop digital educational materials+build business relationships",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+develop digital educational materials+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+develop digital educational materials+evaluate training",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+develop digital educational materials+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "develop digital educational materials",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+develop digital educational materials+build business relationships",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "develop digital educational materials",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+develop digital educational materials+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "develop digital educational materials",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+develop digital educational materials+evaluate training",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "develop digital educational materials",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+teach philosophy+supervise laboratory operations",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+teach philosophy+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+teach philosophy+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+teach philosophy+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+develop digital educational materials+supervise laboratory operations",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+develop digital educational materials+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+develop digital educational materials+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+develop digital educational materials+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+develop digital educational materials+supervise laboratory operations",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "develop digital educational materials",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+develop digital educational materials+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "develop digital educational materials",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+develop digital educational materials+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "develop digital educational materials",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+develop digital educational materials+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "develop digital educational materials",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+develop digital educational materials+supervise laboratory operations",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "develop digital educational materials",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+develop digital educational materials+build business relationships",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "develop digital educational materials",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+develop digital educational materials+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "develop digital educational materials",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+develop digital educational materials+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "develop digital educational materials",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 10,
+        "Frequency Ratio": 3.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+innovation processes+build business relationships",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+innovation processes+evaluate training",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+innovation processes+build business relationships",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+innovation processes+evaluate training",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+innovation processes+build business relationships",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+innovation processes+evaluate training",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+innovation processes+build business relationships",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+innovation processes+evaluate training",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+innovation processes+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+innovation processes+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+innovation processes+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+innovation processes+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+innovation processes+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+innovation processes+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+innovation processes+build business relationships",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+innovation processes+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+innovation processes+build business relationships",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+innovation processes+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+innovation processes+supervise laboratory operations",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "innovation processes",
+            "supervise laboratory operations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+innovation processes+build business relationships",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "innovation processes",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+innovation processes+ensure curriculum adherence",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "innovation processes",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+innovation processes+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "innovation processes",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 9,
+        "Frequency Ratio": 3.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+build business relationships+evaluate training",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+assume responsibility+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "communication",
+            "assume responsibility",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+build business relationships+evaluate training",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+facilitate teamwork between students+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "communication",
+            "facilitate teamwork between students",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+build business relationships+evaluate training",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+teach philosophy+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "communication",
+            "teach philosophy",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+build business relationships+evaluate training",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+develop digital educational materials+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "communication",
+            "develop digital educational materials",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+build business relationships+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+facilitate teamwork between students+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "facilitate teamwork between students",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+build business relationships+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+teach philosophy+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "teach philosophy",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+build business relationships+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+develop digital educational materials+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "develop digital educational materials",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+build business relationships+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+teach philosophy+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "teach philosophy",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+build business relationships+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+develop digital educational materials+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "develop digital educational materials",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+build business relationships+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+develop digital educational materials+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "develop digital educational materials",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 8,
+        "Frequency Ratio": 2.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+innovation processes+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "communication",
+            "innovation processes",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+innovation processes+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "innovation processes",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+innovation processes+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "communication",
+            "innovation processes",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+innovation processes+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "innovation processes",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+innovation processes+build business relationships+evaluate training",
+        "Skills": [
+            "communication",
+            "innovation processes",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+innovation processes+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "communication",
+            "innovation processes",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+innovation processes+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "assume responsibility",
+            "innovation processes",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+innovation processes+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "innovation processes",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+innovation processes+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "innovation processes",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+innovation processes+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "innovation processes",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+innovation processes+build business relationships+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "innovation processes",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+innovation processes+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "innovation processes",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+innovation processes+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "facilitate teamwork between students",
+            "innovation processes",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+innovation processes+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "innovation processes",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+innovation processes+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "innovation processes",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+innovation processes+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "innovation processes",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+innovation processes+build business relationships+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "innovation processes",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+innovation processes+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "innovation processes",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+innovation processes+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "teach philosophy",
+            "innovation processes",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+innovation processes+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "teach philosophy",
+            "innovation processes",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+innovation processes+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "innovation processes",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+innovation processes+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "teach philosophy",
+            "innovation processes",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+innovation processes+build business relationships+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "innovation processes",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+innovation processes+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "innovation processes",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+innovation processes+supervise laboratory operations+build business relationships",
+        "Skills": [
+            "develop digital educational materials",
+            "innovation processes",
+            "supervise laboratory operations",
+            "build business relationships"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+innovation processes+supervise laboratory operations+ensure curriculum adherence",
+        "Skills": [
+            "develop digital educational materials",
+            "innovation processes",
+            "supervise laboratory operations",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+innovation processes+supervise laboratory operations+evaluate training",
+        "Skills": [
+            "develop digital educational materials",
+            "innovation processes",
+            "supervise laboratory operations",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+innovation processes+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "develop digital educational materials",
+            "innovation processes",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+innovation processes+build business relationships+evaluate training",
+        "Skills": [
+            "develop digital educational materials",
+            "innovation processes",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+innovation processes+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "develop digital educational materials",
+            "innovation processes",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 7,
+        "Frequency Ratio": 2.33,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+supervise laboratory operations+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "communication",
+            "supervise laboratory operations",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+supervise laboratory operations+build business relationships+evaluate training",
+        "Skills": [
+            "communication",
+            "supervise laboratory operations",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+supervise laboratory operations+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "communication",
+            "supervise laboratory operations",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "communication+build business relationships+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "communication",
+            "build business relationships",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+supervise laboratory operations+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "assume responsibility",
+            "supervise laboratory operations",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+supervise laboratory operations+build business relationships+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "supervise laboratory operations",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+supervise laboratory operations+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "supervise laboratory operations",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "assume responsibility+build business relationships+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "assume responsibility",
+            "build business relationships",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+supervise laboratory operations+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+supervise laboratory operations+build business relationships+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+supervise laboratory operations+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "supervise laboratory operations",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "facilitate teamwork between students+build business relationships+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "facilitate teamwork between students",
+            "build business relationships",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/229b10cf-6f3a-490c-9706-01c107df0562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+supervise laboratory operations+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "teach philosophy",
+            "supervise laboratory operations",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+supervise laboratory operations+build business relationships+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "supervise laboratory operations",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+supervise laboratory operations+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "supervise laboratory operations",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "teach philosophy+build business relationships+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "teach philosophy",
+            "build business relationships",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5bd0ae67-9614-4498-9e08-e3f7914279dd",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+supervise laboratory operations+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+supervise laboratory operations+build business relationships+evaluate training",
+        "Skills": [
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+supervise laboratory operations+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "develop digital educational materials",
+            "supervise laboratory operations",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "develop digital educational materials+build business relationships+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "develop digital educational materials",
+            "build business relationships",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 6,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "innovation processes+supervise laboratory operations+build business relationships+ensure curriculum adherence",
+        "Skills": [
+            "innovation processes",
+            "supervise laboratory operations",
+            "build business relationships",
+            "ensure curriculum adherence"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 5,
+        "Frequency Ratio": 1.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "innovation processes+supervise laboratory operations+build business relationships+evaluate training",
+        "Skills": [
+            "innovation processes",
+            "supervise laboratory operations",
+            "build business relationships",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 5,
+        "Frequency Ratio": 1.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "innovation processes+supervise laboratory operations+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "innovation processes",
+            "supervise laboratory operations",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 5,
+        "Frequency Ratio": 1.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "innovation processes+build business relationships+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "innovation processes",
+            "build business relationships",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2fb8480e-de3c-462b-b169-e8bbb344da68",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 3,
+        "Reach %": 100.0,
+        "Frequency": 5,
+        "Frequency Ratio": 1.67,
+        "Combination Number": 4
+    },
+    {
+        "Combination": "supervise laboratory operations+build business relationships+ensure curriculum adherence+evaluate training",
+        "Skills": [
+            "supervise laboratory operations",
+            "build business relationships",
+            "ensure curriculum adherence",
+            "evaluate training"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562",
+            "http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+            "http://data.europa.eu/esco/skill/f9d8c7bb-febf-4a8d-95ec-8b60d28e016c",
+            "http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa"
+        ],
+        "Reach": 2,
+        "Reach %": 66.67,
+        "Frequency": 4,
+        "Frequency Ratio": 2.0,
+        "Combination Number": 4
+    }
+]

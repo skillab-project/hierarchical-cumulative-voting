@@ -1,0 +1,3042 @@
+[
+    {
+        "Combination": "production processes+analyse production processes for improvement",
+        "Skills": [
+            "production processes",
+            "analyse production processes for improvement"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81"
+        ],
+        "Reach": 123,
+        "Reach %": 65.08,
+        "Frequency": 136,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+optimise production",
+        "Skills": [
+            "production processes",
+            "optimise production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7"
+        ],
+        "Reach": 117,
+        "Reach %": 61.9,
+        "Frequency": 127,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+assume responsibility",
+        "Skills": [
+            "production processes",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 111,
+        "Reach %": 58.73,
+        "Frequency": 126,
+        "Frequency Ratio": 1.14,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+schedule production",
+        "Skills": [
+            "production processes",
+            "schedule production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037"
+        ],
+        "Reach": 111,
+        "Reach %": 58.73,
+        "Frequency": 117,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+SAP Data Services",
+        "Skills": [
+            "production processes",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 108,
+        "Reach %": 57.14,
+        "Frequency": 108,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+crowdsourcing strategy",
+        "Skills": [
+            "production processes",
+            "crowdsourcing strategy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7"
+        ],
+        "Reach": 106,
+        "Reach %": 56.08,
+        "Frequency": 115,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+control production",
+        "Skills": [
+            "production processes",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 105,
+        "Reach %": 55.56,
+        "Frequency": 116,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+solve problems",
+        "Skills": [
+            "production processes",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 103,
+        "Reach %": 54.5,
+        "Frequency": 111,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+pneumatics",
+        "Skills": [
+            "production processes",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 102,
+        "Reach %": 53.97,
+        "Frequency": 111,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+laboratory equipment",
+        "Skills": [
+            "production processes",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 101,
+        "Reach %": 53.44,
+        "Frequency": 109,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+English",
+        "Skills": [
+            "production processes",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 99,
+        "Reach %": 52.38,
+        "Frequency": 108,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+manage a team",
+        "Skills": [
+            "production processes",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 99,
+        "Reach %": 52.38,
+        "Frequency": 103,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+cooperate with colleagues",
+        "Skills": [
+            "production processes",
+            "cooperate with colleagues"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c"
+        ],
+        "Reach": 95,
+        "Reach %": 50.26,
+        "Frequency": 120,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+pharmaceutical industry",
+        "Skills": [
+            "production processes",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 90,
+        "Reach %": 47.62,
+        "Frequency": 115,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+ensure compliance with company regulations",
+        "Skills": [
+            "production processes",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 90,
+        "Reach %": 47.62,
+        "Frequency": 113,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+tend packaging machines",
+        "Skills": [
+            "production processes",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 90,
+        "Reach %": 47.62,
+        "Frequency": 103,
+        "Frequency Ratio": 1.14,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+pharmaceutical technology",
+        "Skills": [
+            "production processes",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 89,
+        "Reach %": 47.09,
+        "Frequency": 113,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+perform quality audits",
+        "Skills": [
+            "production processes",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 88,
+        "Reach %": 46.56,
+        "Frequency": 113,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+ensure products meet regulatory requirements",
+        "Skills": [
+            "production processes",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 87,
+        "Reach %": 46.03,
+        "Frequency": 107,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+optimise production",
+        "Skills": [
+            "analyse production processes for improvement",
+            "optimise production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7"
+        ],
+        "Reach": 85,
+        "Reach %": 44.97,
+        "Frequency": 89,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+cooperate with colleagues",
+        "Skills": [
+            "analyse production processes for improvement",
+            "cooperate with colleagues"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c"
+        ],
+        "Reach": 79,
+        "Reach %": 41.8,
+        "Frequency": 82,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+control production",
+        "Skills": [
+            "analyse production processes for improvement",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 76,
+        "Reach %": 40.21,
+        "Frequency": 78,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+schedule production",
+        "Skills": [
+            "analyse production processes for improvement",
+            "schedule production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037"
+        ],
+        "Reach": 75,
+        "Reach %": 39.68,
+        "Frequency": 79,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+assume responsibility",
+        "Skills": [
+            "optimise production",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 75,
+        "Reach %": 39.68,
+        "Frequency": 79,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+pharmaceutical technology",
+        "Skills": [
+            "analyse production processes for improvement",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 75,
+        "Reach %": 39.68,
+        "Frequency": 75,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+perform quality audits",
+        "Skills": [
+            "analyse production processes for improvement",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 75,
+        "Reach %": 39.68,
+        "Frequency": 75,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+ensure compliance with company regulations",
+        "Skills": [
+            "analyse production processes for improvement",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 73,
+        "Reach %": 38.62,
+        "Frequency": 75,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+cooperate with colleagues",
+        "Skills": [
+            "optimise production",
+            "cooperate with colleagues"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c"
+        ],
+        "Reach": 73,
+        "Reach %": 38.62,
+        "Frequency": 73,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+cooperate with colleagues",
+        "Skills": [
+            "assume responsibility",
+            "cooperate with colleagues"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c"
+        ],
+        "Reach": 71,
+        "Reach %": 37.57,
+        "Frequency": 72,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+laboratory equipment",
+        "Skills": [
+            "analyse production processes for improvement",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 71,
+        "Reach %": 37.57,
+        "Frequency": 71,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+SAP Data Services",
+        "Skills": [
+            "analyse production processes for improvement",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 70,
+        "Reach %": 37.04,
+        "Frequency": 70,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+ensure products meet regulatory requirements",
+        "Skills": [
+            "analyse production processes for improvement",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 69,
+        "Reach %": 36.51,
+        "Frequency": 69,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+crowdsourcing strategy",
+        "Skills": [
+            "optimise production",
+            "crowdsourcing strategy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7"
+        ],
+        "Reach": 68,
+        "Reach %": 35.98,
+        "Frequency": 68,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+pharmaceutical industry",
+        "Skills": [
+            "optimise production",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 68,
+        "Reach %": 35.98,
+        "Frequency": 68,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+schedule production",
+        "Skills": [
+            "assume responsibility",
+            "schedule production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037"
+        ],
+        "Reach": 67,
+        "Reach %": 35.45,
+        "Frequency": 69,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+ensure compliance with company regulations",
+        "Skills": [
+            "optimise production",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 66,
+        "Reach %": 34.92,
+        "Frequency": 66,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+pharmaceutical technology",
+        "Skills": [
+            "optimise production",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 66,
+        "Reach %": 34.92,
+        "Frequency": 66,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+perform quality audits",
+        "Skills": [
+            "optimise production",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 66,
+        "Reach %": 34.92,
+        "Frequency": 66,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+assume responsibility",
+        "Skills": [
+            "analyse production processes for improvement",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 65,
+        "Reach %": 34.39,
+        "Frequency": 88,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+pharmaceutical industry",
+        "Skills": [
+            "analyse production processes for improvement",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 65,
+        "Reach %": 34.39,
+        "Frequency": 77,
+        "Frequency Ratio": 1.18,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+ensure compliance with company regulations",
+        "Skills": [
+            "assume responsibility",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 65,
+        "Reach %": 34.39,
+        "Frequency": 65,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+pharmaceutical technology",
+        "Skills": [
+            "assume responsibility",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 65,
+        "Reach %": 34.39,
+        "Frequency": 65,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+perform quality audits",
+        "Skills": [
+            "assume responsibility",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 65,
+        "Reach %": 34.39,
+        "Frequency": 65,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+pneumatics",
+        "Skills": [
+            "optimise production",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 64,
+        "Reach %": 33.86,
+        "Frequency": 64,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+solve problems",
+        "Skills": [
+            "analyse production processes for improvement",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 63,
+        "Reach %": 33.33,
+        "Frequency": 73,
+        "Frequency Ratio": 1.16,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+control production",
+        "Skills": [
+            "assume responsibility",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 63,
+        "Reach %": 33.33,
+        "Frequency": 68,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+manage a team",
+        "Skills": [
+            "analyse production processes for improvement",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 63,
+        "Reach %": 33.33,
+        "Frequency": 65,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+schedule production",
+        "Skills": [
+            "cooperate with colleagues",
+            "schedule production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037"
+        ],
+        "Reach": 63,
+        "Reach %": 33.33,
+        "Frequency": 63,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+solve problems",
+        "Skills": [
+            "assume responsibility",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 62,
+        "Reach %": 32.8,
+        "Frequency": 63,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+English",
+        "Skills": [
+            "optimise production",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 61,
+        "Reach %": 32.28,
+        "Frequency": 61,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+crowdsourcing strategy",
+        "Skills": [
+            "cooperate with colleagues",
+            "crowdsourcing strategy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7"
+        ],
+        "Reach": 61,
+        "Reach %": 32.28,
+        "Frequency": 61,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+English",
+        "Skills": [
+            "analyse production processes for improvement",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 60,
+        "Reach %": 31.75,
+        "Frequency": 70,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+schedule production",
+        "Skills": [
+            "optimise production",
+            "schedule production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037"
+        ],
+        "Reach": 60,
+        "Reach %": 31.75,
+        "Frequency": 70,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+laboratory equipment",
+        "Skills": [
+            "assume responsibility",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 60,
+        "Reach %": 31.75,
+        "Frequency": 61,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+ensure products meet regulatory requirements",
+        "Skills": [
+            "optimise production",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 60,
+        "Reach %": 31.75,
+        "Frequency": 60,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+English",
+        "Skills": [
+            "assume responsibility",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 60,
+        "Reach %": 31.75,
+        "Frequency": 60,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+control production",
+        "Skills": [
+            "optimise production",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 59,
+        "Reach %": 31.22,
+        "Frequency": 69,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+SAP Data Services",
+        "Skills": [
+            "assume responsibility",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 59,
+        "Reach %": 31.22,
+        "Frequency": 60,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+ensure products meet regulatory requirements",
+        "Skills": [
+            "assume responsibility",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 59,
+        "Reach %": 31.22,
+        "Frequency": 59,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+pharmaceutical industry",
+        "Skills": [
+            "assume responsibility",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 58,
+        "Reach %": 30.69,
+        "Frequency": 67,
+        "Frequency Ratio": 1.16,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+control production",
+        "Skills": [
+            "cooperate with colleagues",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 58,
+        "Reach %": 30.69,
+        "Frequency": 62,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+crowdsourcing strategy",
+        "Skills": [
+            "schedule production",
+            "crowdsourcing strategy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7"
+        ],
+        "Reach": 58,
+        "Reach %": 30.69,
+        "Frequency": 58,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+pharmaceutical industry",
+        "Skills": [
+            "schedule production",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 58,
+        "Reach %": 30.69,
+        "Frequency": 58,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+solve problems",
+        "Skills": [
+            "cooperate with colleagues",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 57,
+        "Reach %": 30.16,
+        "Frequency": 57,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+crowdsourcing strategy",
+        "Skills": [
+            "control production",
+            "crowdsourcing strategy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7"
+        ],
+        "Reach": 57,
+        "Reach %": 30.16,
+        "Frequency": 57,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+pharmaceutical industry",
+        "Skills": [
+            "control production",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 57,
+        "Reach %": 30.16,
+        "Frequency": 57,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+tend packaging machines",
+        "Skills": [
+            "optimise production",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 56,
+        "Reach %": 29.63,
+        "Frequency": 56,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+perform quality audits",
+        "Skills": [
+            "schedule production",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 56,
+        "Reach %": 29.63,
+        "Frequency": 56,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+solve problems",
+        "Skills": [
+            "optimise production",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 55,
+        "Reach %": 29.1,
+        "Frequency": 64,
+        "Frequency Ratio": 1.16,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+manage a team",
+        "Skills": [
+            "assume responsibility",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 55,
+        "Reach %": 29.1,
+        "Frequency": 55,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+laboratory equipment",
+        "Skills": [
+            "cooperate with colleagues",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 55,
+        "Reach %": 29.1,
+        "Frequency": 55,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+pharmaceutical technology",
+        "Skills": [
+            "control production",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 55,
+        "Reach %": 29.1,
+        "Frequency": 55,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+perform quality audits",
+        "Skills": [
+            "control production",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 55,
+        "Reach %": 29.1,
+        "Frequency": 55,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+ensure compliance with company regulations",
+        "Skills": [
+            "schedule production",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 54,
+        "Reach %": 28.57,
+        "Frequency": 56,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+pharmaceutical technology",
+        "Skills": [
+            "schedule production",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 54,
+        "Reach %": 28.57,
+        "Frequency": 56,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+SAP Data Services",
+        "Skills": [
+            "cooperate with colleagues",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 54,
+        "Reach %": 28.57,
+        "Frequency": 54,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+pneumatics",
+        "Skills": [
+            "schedule production",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 54,
+        "Reach %": 28.57,
+        "Frequency": 54,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+ensure compliance with company regulations",
+        "Skills": [
+            "crowdsourcing strategy",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 54,
+        "Reach %": 28.57,
+        "Frequency": 54,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+pharmaceutical technology",
+        "Skills": [
+            "crowdsourcing strategy",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 54,
+        "Reach %": 28.57,
+        "Frequency": 54,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+perform quality audits",
+        "Skills": [
+            "crowdsourcing strategy",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 54,
+        "Reach %": 28.57,
+        "Frequency": 54,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+pneumatics",
+        "Skills": [
+            "analyse production processes for improvement",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 53,
+        "Reach %": 28.04,
+        "Frequency": 73,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+tend packaging machines",
+        "Skills": [
+            "analyse production processes for improvement",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 53,
+        "Reach %": 28.04,
+        "Frequency": 65,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+pneumatics",
+        "Skills": [
+            "cooperate with colleagues",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 53,
+        "Reach %": 28.04,
+        "Frequency": 57,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+pneumatics",
+        "Skills": [
+            "control production",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 53,
+        "Reach %": 28.04,
+        "Frequency": 53,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+ensure compliance with company regulations",
+        "Skills": [
+            "control production",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 52,
+        "Reach %": 27.51,
+        "Frequency": 55,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+solve problems",
+        "Skills": [
+            "pharmaceutical industry",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 52,
+        "Reach %": 27.51,
+        "Frequency": 52,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+laboratory equipment",
+        "Skills": [
+            "optimise production",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 62,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+English",
+        "Skills": [
+            "cooperate with colleagues",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 54,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+solve problems",
+        "Skills": [
+            "schedule production",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 54,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+ensure products meet regulatory requirements",
+        "Skills": [
+            "schedule production",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+laboratory equipment",
+        "Skills": [
+            "crowdsourcing strategy",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+laboratory equipment",
+        "Skills": [
+            "pharmaceutical industry",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+solve problems",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+pneumatics",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+solve problems",
+        "Skills": [
+            "pharmaceutical technology",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+pneumatics",
+        "Skills": [
+            "pharmaceutical technology",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+solve problems",
+        "Skills": [
+            "perform quality audits",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+pneumatics",
+        "Skills": [
+            "perform quality audits",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 50,
+        "Reach %": 26.46,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "analyse production processes for improvement+crowdsourcing strategy",
+        "Skills": [
+            "analyse production processes for improvement",
+            "crowdsourcing strategy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81",
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 77,
+        "Frequency Ratio": 1.57,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+pharmaceutical industry",
+        "Skills": [
+            "cooperate with colleagues",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 61,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+solve problems",
+        "Skills": [
+            "control production",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 53,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+laboratory equipment",
+        "Skills": [
+            "schedule production",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 52,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+English",
+        "Skills": [
+            "schedule production",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 51,
+        "Frequency Ratio": 1.04,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+tend packaging machines",
+        "Skills": [
+            "cooperate with colleagues",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+manage a team",
+        "Skills": [
+            "cooperate with colleagues",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+ensure products meet regulatory requirements",
+        "Skills": [
+            "control production",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+SAP Data Services",
+        "Skills": [
+            "crowdsourcing strategy",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+English",
+        "Skills": [
+            "pharmaceutical industry",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+SAP Data Services",
+        "Skills": [
+            "pharmaceutical industry",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 49,
+        "Reach %": 25.93,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+control production",
+        "Skills": [
+            "schedule production",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 48,
+        "Reach %": 25.4,
+        "Frequency": 59,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+laboratory equipment",
+        "Skills": [
+            "control production",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 48,
+        "Reach %": 25.4,
+        "Frequency": 51,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+ensure products meet regulatory requirements",
+        "Skills": [
+            "crowdsourcing strategy",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 48,
+        "Reach %": 25.4,
+        "Frequency": 48,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+laboratory equipment",
+        "Skills": [
+            "pharmaceutical technology",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 48,
+        "Reach %": 25.4,
+        "Frequency": 48,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+laboratory equipment",
+        "Skills": [
+            "perform quality audits",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 48,
+        "Reach %": 25.4,
+        "Frequency": 48,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "solve problems+pneumatics",
+        "Skills": [
+            "solve problems",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 48,
+        "Reach %": 25.4,
+        "Frequency": 48,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+crowdsourcing strategy",
+        "Skills": [
+            "assume responsibility",
+            "crowdsourcing strategy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7"
+        ],
+        "Reach": 47,
+        "Reach %": 24.87,
+        "Frequency": 67,
+        "Frequency Ratio": 1.43,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+pharmaceutical industry",
+        "Skills": [
+            "crowdsourcing strategy",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 47,
+        "Reach %": 24.87,
+        "Frequency": 56,
+        "Frequency Ratio": 1.19,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+English",
+        "Skills": [
+            "control production",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 47,
+        "Reach %": 24.87,
+        "Frequency": 50,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+laboratory equipment",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 47,
+        "Reach %": 24.87,
+        "Frequency": 48,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+SAP Data Services",
+        "Skills": [
+            "pharmaceutical technology",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 47,
+        "Reach %": 24.87,
+        "Frequency": 47,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+English",
+        "Skills": [
+            "perform quality audits",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 47,
+        "Reach %": 24.87,
+        "Frequency": 47,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+SAP Data Services",
+        "Skills": [
+            "perform quality audits",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 47,
+        "Reach %": 24.87,
+        "Frequency": 47,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+pneumatics",
+        "Skills": [
+            "assume responsibility",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 46,
+        "Reach %": 24.34,
+        "Frequency": 63,
+        "Frequency Ratio": 1.37,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+SAP Data Services",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 46,
+        "Reach %": 24.34,
+        "Frequency": 47,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+tend packaging machines",
+        "Skills": [
+            "schedule production",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 46,
+        "Reach %": 24.34,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pneumatics+laboratory equipment",
+        "Skills": [
+            "pneumatics",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 46,
+        "Reach %": 24.34,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+manage a team",
+        "Skills": [
+            "optimise production",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 45,
+        "Reach %": 23.81,
+        "Frequency": 56,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pneumatics+English",
+        "Skills": [
+            "pneumatics",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 45,
+        "Reach %": 23.81,
+        "Frequency": 45,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pneumatics+SAP Data Services",
+        "Skills": [
+            "pneumatics",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 45,
+        "Reach %": 23.81,
+        "Frequency": 45,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "optimise production+SAP Data Services",
+        "Skills": [
+            "optimise production",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 44,
+        "Reach %": 23.28,
+        "Frequency": 61,
+        "Frequency Ratio": 1.39,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+solve problems",
+        "Skills": [
+            "crowdsourcing strategy",
+            "solve problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869"
+        ],
+        "Reach": 44,
+        "Reach %": 23.28,
+        "Frequency": 52,
+        "Frequency Ratio": 1.18,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+SAP Data Services",
+        "Skills": [
+            "control production",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 44,
+        "Reach %": 23.28,
+        "Frequency": 50,
+        "Frequency Ratio": 1.14,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+manage a team",
+        "Skills": [
+            "crowdsourcing strategy",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 44,
+        "Reach %": 23.28,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+manage a team",
+        "Skills": [
+            "pharmaceutical industry",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 44,
+        "Reach %": 23.28,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "solve problems+ensure products meet regulatory requirements",
+        "Skills": [
+            "solve problems",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 44,
+        "Reach %": 23.28,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pneumatics+ensure products meet regulatory requirements",
+        "Skills": [
+            "pneumatics",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 44,
+        "Reach %": 23.28,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+tend packaging machines",
+        "Skills": [
+            "assume responsibility",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 43,
+        "Reach %": 22.75,
+        "Frequency": 55,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+SAP Data Services",
+        "Skills": [
+            "schedule production",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 43,
+        "Reach %": 22.75,
+        "Frequency": 51,
+        "Frequency Ratio": 1.19,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+English",
+        "Skills": [
+            "pharmaceutical technology",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 43,
+        "Reach %": 22.75,
+        "Frequency": 47,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "solve problems+laboratory equipment",
+        "Skills": [
+            "solve problems",
+            "laboratory equipment"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9"
+        ],
+        "Reach": 43,
+        "Reach %": 22.75,
+        "Frequency": 46,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "laboratory equipment+English",
+        "Skills": [
+            "laboratory equipment",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 43,
+        "Reach %": 22.75,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+ensure compliance with company regulations",
+        "Skills": [
+            "pharmaceutical industry",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 54,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+pharmaceutical technology",
+        "Skills": [
+            "pharmaceutical industry",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 54,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+perform quality audits",
+        "Skills": [
+            "pharmaceutical industry",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 54,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+English",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 47,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+tend packaging machines",
+        "Skills": [
+            "control production",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 45,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "solve problems+SAP Data Services",
+        "Skills": [
+            "solve problems",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 45,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+tend packaging machines",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+manage a team",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+tend packaging machines",
+        "Skills": [
+            "pharmaceutical technology",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+manage a team",
+        "Skills": [
+            "pharmaceutical technology",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+tend packaging machines",
+        "Skills": [
+            "perform quality audits",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "laboratory equipment+ensure products meet regulatory requirements",
+        "Skills": [
+            "laboratory equipment",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+SAP Data Services",
+        "Skills": [
+            "English",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 42,
+        "Reach %": 22.22,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+English",
+        "Skills": [
+            "crowdsourcing strategy",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 41,
+        "Reach %": 21.69,
+        "Frequency": 49,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+manage a team",
+        "Skills": [
+            "perform quality audits",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 41,
+        "Reach %": 21.69,
+        "Frequency": 42,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+ensure products meet regulatory requirements",
+        "Skills": [
+            "English",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 41,
+        "Reach %": 21.69,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "SAP Data Services+ensure products meet regulatory requirements",
+        "Skills": [
+            "SAP Data Services",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 41,
+        "Reach %": 21.69,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+pneumatics",
+        "Skills": [
+            "pharmaceutical industry",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 40,
+        "Reach %": 21.16,
+        "Frequency": 52,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "solve problems+tend packaging machines",
+        "Skills": [
+            "solve problems",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 40,
+        "Reach %": 21.16,
+        "Frequency": 40,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pneumatics+manage a team",
+        "Skills": [
+            "pneumatics",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 40,
+        "Reach %": 21.16,
+        "Frequency": 40,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+pharmaceutical technology",
+        "Skills": [
+            "cooperate with colleagues",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 39,
+        "Reach %": 20.63,
+        "Frequency": 59,
+        "Frequency Ratio": 1.51,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+perform quality audits",
+        "Skills": [
+            "cooperate with colleagues",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 39,
+        "Reach %": 20.63,
+        "Frequency": 59,
+        "Frequency Ratio": 1.51,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "laboratory equipment+manage a team",
+        "Skills": [
+            "laboratory equipment",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 38,
+        "Reach %": 20.11,
+        "Frequency": 38,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "schedule production+manage a team",
+        "Skills": [
+            "schedule production",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/2a778aeb-f246-4f03-9a96-c60183001037",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 37,
+        "Reach %": 19.58,
+        "Frequency": 46,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+tend packaging machines",
+        "Skills": [
+            "English",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 37,
+        "Reach %": 19.58,
+        "Frequency": 37,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "SAP Data Services+tend packaging machines",
+        "Skills": [
+            "SAP Data Services",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 37,
+        "Reach %": 19.58,
+        "Frequency": 37,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+ensure compliance with company regulations",
+        "Skills": [
+            "cooperate with colleagues",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 59,
+        "Frequency Ratio": 1.64,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+ensure products meet regulatory requirements",
+        "Skills": [
+            "pharmaceutical industry",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 48,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "control production+manage a team",
+        "Skills": [
+            "control production",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 45,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "solve problems+English",
+        "Skills": [
+            "solve problems",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 45,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "solve problems+manage a team",
+        "Skills": [
+            "solve problems",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/adc6dc11-3376-467b-96c5-9b0a21edc869",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 40,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+manage a team",
+        "Skills": [
+            "English",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 37,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure products meet regulatory requirements+tend packaging machines",
+        "Skills": [
+            "ensure products meet regulatory requirements",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 36,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure products meet regulatory requirements+manage a team",
+        "Skills": [
+            "ensure products meet regulatory requirements",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 36,
+        "Reach %": 19.05,
+        "Frequency": 36,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+pneumatics",
+        "Skills": [
+            "crowdsourcing strategy",
+            "pneumatics"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f"
+        ],
+        "Reach": 35,
+        "Reach %": 18.52,
+        "Frequency": 52,
+        "Frequency Ratio": 1.49,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+tend packaging machines",
+        "Skills": [
+            "pharmaceutical industry",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 35,
+        "Reach %": 18.52,
+        "Frequency": 44,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "laboratory equipment+tend packaging machines",
+        "Skills": [
+            "laboratory equipment",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 35,
+        "Reach %": 18.52,
+        "Frequency": 38,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+ensure products meet regulatory requirements",
+        "Skills": [
+            "cooperate with colleagues",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 33,
+        "Reach %": 17.46,
+        "Frequency": 53,
+        "Frequency Ratio": 1.61,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+pharmaceutical technology",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "pharmaceutical technology"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8"
+        ],
+        "Reach": 32,
+        "Reach %": 16.93,
+        "Frequency": 52,
+        "Frequency Ratio": 1.62,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+perform quality audits",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 32,
+        "Reach %": 16.93,
+        "Frequency": 52,
+        "Frequency Ratio": 1.62,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+perform quality audits",
+        "Skills": [
+            "pharmaceutical technology",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 32,
+        "Reach %": 16.93,
+        "Frequency": 52,
+        "Frequency Ratio": 1.62,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "crowdsourcing strategy+tend packaging machines",
+        "Skills": [
+            "crowdsourcing strategy",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/694dc996-52f3-4afa-a802-672e19f061b7",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 32,
+        "Reach %": 16.93,
+        "Frequency": 44,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "tend packaging machines+manage a team",
+        "Skills": [
+            "tend packaging machines",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 32,
+        "Reach %": 16.93,
+        "Frequency": 32,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pneumatics+tend packaging machines",
+        "Skills": [
+            "pneumatics",
+            "tend packaging machines"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/bf419e00-8548-491a-a06f-d72ab439df2f",
+            "http://data.europa.eu/esco/skill/01fec851-b5f4-419b-940a-3b4c835adfa8"
+        ],
+        "Reach": 31,
+        "Reach %": 16.4,
+        "Frequency": 40,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "SAP Data Services+manage a team",
+        "Skills": [
+            "SAP Data Services",
+            "manage a team"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4",
+            "http://data.europa.eu/esco/skill/cb668e89-6ef5-4ff3-ab4a-506010e7e70b"
+        ],
+        "Reach": 31,
+        "Reach %": 16.4,
+        "Frequency": 37,
+        "Frequency Ratio": 1.19,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "laboratory equipment+SAP Data Services",
+        "Skills": [
+            "laboratory equipment",
+            "SAP Data Services"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/35f1dcdc-577f-46c6-96d9-6c7a64501de9",
+            "http://data.europa.eu/esco/skill/f8e3425c-fe44-4ffb-bafe-0e20d91dadf4"
+        ],
+        "Reach": 30,
+        "Reach %": 15.87,
+        "Frequency": 43,
+        "Frequency Ratio": 1.43,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+ensure products meet regulatory requirements",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 26,
+        "Reach %": 13.76,
+        "Frequency": 46,
+        "Frequency Ratio": 1.77,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical technology+ensure products meet regulatory requirements",
+        "Skills": [
+            "pharmaceutical technology",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7b1ab171-caed-4561-89e4-b214396b1ae8",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 26,
+        "Reach %": 13.76,
+        "Frequency": 46,
+        "Frequency Ratio": 1.77,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+ensure products meet regulatory requirements",
+        "Skills": [
+            "perform quality audits",
+            "ensure products meet regulatory requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3"
+        ],
+        "Reach": 26,
+        "Reach %": 13.76,
+        "Frequency": 46,
+        "Frequency Ratio": 1.77,
+        "Combination Number": 2
+    }
+]

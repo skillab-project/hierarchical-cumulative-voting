@@ -1,12 +1,17 @@
 import time
+import threading
 import re
 import math
 from fastapi import FastAPI, Query
 import pandas as pd
 import networkx as nx
 import json
+import gzip
+import hashlib
 from pathlib import Path
-import requests as req
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import os
 from dotenv import load_dotenv
 from typing import Optional, List
@@ -25,9 +30,84 @@ USERNAME = os.getenv("TRACKER_USERNAME")
 PASSWORD = os.getenv("TRACKER_PASSWORD")
 
 # Number of parallel workers for page fetching — keeps the API happy without hammering it
-FETCH_WORKERS = 10
+FETCH_WORKERS = 4
 # Page size used across all endpoints
 PAGE_SIZE = 300
+# Abort the whole fetch once this many pages have failed (after retries)
+MAX_FAILED_PAGES = 5
+# How many times one page is retried after HTTP 429 (Too Many Requests)
+RATE_LIMIT_RETRIES = 8
+# Longest single wait after a 429, in seconds
+RATE_LIMIT_MAX_WAIT = 60
+
+# Raw tracker data is cached on disk so that HCV (all pillars) and TURF (all
+# combinations) for the same filters reuse one fetch instead of re-downloading.
+RAW_CACHE_DIR = Path("Completed_Analyses") / "raw_data"
+RAW_CACHE_TTL_HOURS = float(os.getenv("RAW_CACHE_TTL_HOURS", "24"))
+_raw_cache_locks: dict = {}
+_raw_cache_locks_guard = threading.Lock()
+
+# Shared cooldown: when the tracker answers 429, *all* workers pause until this
+# time, so we actually slow down instead of each thread retrying on its own.
+_cooldown_lock = threading.Lock()
+_cooldown_until = 0.0
+
+
+def _wait_for_cooldown():
+    while True:
+        with _cooldown_lock:
+            remaining = _cooldown_until - time.time()
+        if remaining <= 0:
+            return
+        time.sleep(remaining)
+
+
+def _start_cooldown(seconds: float):
+    global _cooldown_until
+    with _cooldown_lock:
+        _cooldown_until = max(_cooldown_until, time.time() + seconds)
+
+
+def _retry_after_seconds(response) -> Optional[float]:
+    value = (getattr(response, "headers", None) or {}).get("Retry-After")
+    try:
+        return float(value) if value is not None else None
+    except (TypeError, ValueError):
+        return None
+# If a jobs query restricted to OJA returns nothing, retry it with these sources
+JOBS_FALLBACK_SOURCES = {"oja": ["kariera.gr"]}
+
+
+def _build_session() -> requests.Session:
+    """
+    One shared HTTP session for all tracker calls.
+
+    Reusing pooled keep-alive connections means a full paginated fetch uses a
+    handful of TCP/TLS connections instead of one per page (the tracker's
+    network flags clients that open too many connections). Failed requests are
+    retried with exponential backoff, honouring Retry-After on 429/503.
+    """
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        status=3,
+        backoff_factor=2,  # waits ~0s, 4s, 8s between attempts (capped by Retry-After if sent)
+        status_forcelist=(500, 502, 503, 504),  # 429 is handled in fetch_page with a shared cooldown
+        allowed_methods=frozenset({"GET", "POST"}),  # tracker search endpoints are read-only POSTs
+        respect_retry_after_header=True,
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(pool_connections=1, pool_maxsize=FETCH_WORKERS, max_retries=retry)
+    session = requests.Session()
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
+# Named `req` so the existing call sites (req.post) and the unit-test mocks
+# (patch("HCV.req.post")) keep working unchanged, now backed by the pooled session.
+req = _build_session()
 
 def _cleanup_stale_sentinels():
     """
@@ -56,6 +136,7 @@ def _cleanup_stale_sentinels():
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     _cleanup_stale_sentinels()
+    cleanup_expired_raw_cache()
     yield
 
 app = FastAPI(
@@ -82,7 +163,68 @@ def _parse_csv_int(v: Optional[str]) -> Optional[List[int]]:
     return [int(x.strip()) for x in v.split(",") if x.strip()]
 
 
+def _raw_cache_path(request_body: dict, endpoint: str) -> Path:
+    key = json.dumps({"endpoint": endpoint, "body": request_body}, sort_keys=True, default=str)
+    digest = hashlib.sha1(key.encode("utf-8")).hexdigest()[:16]
+    return RAW_CACHE_DIR / f"{endpoint}_{digest}.json.gz"
+
+
+def _raw_cache_is_fresh(path: Path) -> bool:
+    return path.exists() and (time.time() - path.stat().st_mtime) < RAW_CACHE_TTL_HOURS * 3600
+
+
+def cleanup_expired_raw_cache():
+    """Delete raw-data cache files older than RAW_CACHE_TTL_HOURS."""
+    if not RAW_CACHE_DIR.exists():
+        return
+    for f in RAW_CACHE_DIR.glob("*.json.gz"):
+        try:
+            if not _raw_cache_is_fresh(f):
+                f.unlink()
+                print(f"🧹 Removed expired raw data cache: {f.name}")
+        except OSError:
+            pass
+
+
 def fetch_all_pages(request_body: dict, endpoint: str) -> list:
+    """
+    Return the items for a tracker query, fetching from the tracker only once.
+
+    The first call for a given (endpoint, filters) downloads all pages and stores
+    the skills of every item in a gzip file under RAW_CACHE_DIR. Later calls with
+    the same filters (e.g. HCV for another pillar, TURF with other combinations)
+    read that file instead of hitting the tracker again. Concurrent calls for the
+    same filters wait for the first download instead of starting their own.
+    """
+    path = _raw_cache_path(request_body, endpoint)
+    with _raw_cache_locks_guard:
+        lock = _raw_cache_locks.setdefault(str(path), threading.Lock())
+
+    with lock:
+        if _raw_cache_is_fresh(path):
+            try:
+                with gzip.open(path, "rt", encoding="utf-8") as f:
+                    items = json.load(f)
+                print(f"♻️  Using cached tracker data for /{endpoint} ({len(items)} records, {path.name}).")
+                return items
+            except Exception as exc:
+                print(f"⚠️  Could not read raw data cache {path.name}: {exc}. Fetching again.")
+
+        items = _fetch_all_pages_from_tracker(request_body, endpoint)
+
+        try:
+            path.parent.mkdir(parents=True, exist_ok=True)
+            tmp = path.with_name(path.name + ".tmp")
+            with gzip.open(tmp, "wt", encoding="utf-8") as f:
+                json.dump(items, f)
+            os.replace(tmp, path)
+            print(f"💾 Cached tracker data for /{endpoint} in {path.name}.")
+        except Exception as exc:
+            print(f"⚠️  Could not write raw data cache {path.name}: {exc}")
+        return items
+
+
+def _fetch_all_pages_from_tracker(request_body: dict, endpoint: str) -> list:
     """
     Fetch all pages from a tracker endpoint in parallel.
 
@@ -96,24 +238,47 @@ def fetch_all_pages(request_body: dict, endpoint: str) -> list:
     token = get_token()
     headers = {"Authorization": f"Bearer {token}"}
 
-    def fetch_page(p: int) -> dict:
-        r = req.post(
-            f"{API}/{endpoint}",
-            headers=headers,
-            params={"page": p, "page_size": PAGE_SIZE},
-            data=request_body,
-            timeout=1200,
-        )
-        return r.json() if r.status_code == 200 else {}
+    page_size = PAGE_SIZE
 
-    # Probe page 1 to learn the total record count
+    def fetch_page(p: int) -> dict:
+        for attempt in range(RATE_LIMIT_RETRIES + 1):
+            _wait_for_cooldown()
+            r = req.post(
+                f"{API}/{endpoint}",
+                headers=headers,
+                params={"page": p, "page_size": page_size},
+                data=request_body,
+                timeout=1200,
+            )
+            if r.status_code == 429 and attempt < RATE_LIMIT_RETRIES:
+                wait = _retry_after_seconds(r) or min(RATE_LIMIT_MAX_WAIT, 5 * 2 ** attempt)
+                print(f"⏳ Rate limited on /{endpoint} page {p}; pausing all workers for {wait:.0f}s "
+                      f"(attempt {attempt + 1}/{RATE_LIMIT_RETRIES}).")
+                _start_cooldown(wait)
+                continue
+            if r.status_code != 200:
+                raise RuntimeError(f"/{endpoint} page {p} returned HTTP {r.status_code}")
+            data = r.json()
+            # Keep only what the analyses use, to save memory and cache space
+            data["items"] = [{"skills": it.get("skills", [])} for it in data.get("items", [])]
+            return data
+
+    # Probe page 1 to learn the total record count.
+    # If this fails (after retries) the exception propagates, so a tracker
+    # outage is not cached as an empty result.
     probe = fetch_page(1)
     total_count = probe.get("count", 0)
     if total_count == 0:
         return []
 
     items = list(probe.get("items", []))
-    total_pages = math.ceil(total_count / PAGE_SIZE)
+    # The tracker may cap page_size below what we asked for. Use the size it
+    # actually returned, otherwise later pages are requested at the wrong offsets.
+    if 0 < len(items) < page_size and total_count > len(items):
+        print(f"⚠️  /{endpoint} returned {len(items)} items for page_size={page_size}; "
+              f"using page_size={len(items)} for the remaining pages.")
+        page_size = len(items)
+    total_pages = math.ceil(total_count / page_size)
 
     print(f"📊 {endpoint}: {total_count} records across {total_pages} pages. Fetching in parallel…")
 
@@ -122,6 +287,7 @@ def fetch_all_pages(request_body: dict, endpoint: str) -> list:
 
     # Fetch pages 2..N in parallel
     page_results: dict = {}
+    failed_pages: list = []
     with ThreadPoolExecutor(max_workers=FETCH_WORKERS) as executor:
         future_to_page = {
             executor.submit(fetch_page, p): p for p in range(2, total_pages + 1)
@@ -135,15 +301,47 @@ def fetch_all_pages(request_body: dict, endpoint: str) -> list:
             except Exception as exc:
                 print(f"⚠️  Page {p} failed: {exc}")
                 page_results[p] = []
+                failed_pages.append(p)
+                if len(failed_pages) >= MAX_FAILED_PAGES:
+                    # Stop hammering the tracker: drop queued pages and fail the analysis
+                    for f in future_to_page:
+                        f.cancel()
+                    raise RuntimeError(
+                        f"Aborting /{endpoint} fetch: {len(failed_pages)} pages failed "
+                        f"(e.g. pages {sorted(failed_pages)[:5]})."
+                    )
             completed += 1
             if completed % 50 == 0:
                 print(f"📦 Progress: {completed}/{total_pages - 1} pages fetched.")
+
+    if failed_pages:
+        print(f"⚠️  {len(failed_pages)} page(s) failed and were skipped: {sorted(failed_pages)}")
 
     # Reassemble in page order — keeps result list deterministic
     for p in range(2, total_pages + 1):
         items.extend(page_results.get(p, []))
 
+    if len(items) < total_count:
+        print(f"⚠️  Fetched {len(items)} of {total_count} records reported by /{endpoint}.")
     print(f"✅ Fetched {len(items)} records from /{endpoint}.")
+    return items
+
+
+def fetch_jobs_with_fallback(request_body: dict) -> list:
+    """
+    Fetch jobs; if the query is restricted to a single source that has a
+    fallback (OJA -> kariera.gr) and returns nothing, retry with the fallback source.
+    """
+    items = fetch_all_pages(request_body, endpoint='jobs')
+    if items:
+        return items
+
+    sources = request_body.get("sources") or []
+    if len(sources) == 1:
+        fallback = JOBS_FALLBACK_SOURCES.get(sources[0].strip().lower())
+        if fallback:
+            print(f"No jobs found for source {sources[0]}; falling back to {fallback}.")
+            items = fetch_all_pages({**request_body, "sources": fallback}, endpoint='jobs')
     return items
 
 
@@ -249,8 +447,10 @@ def load_esco() -> tuple[pd.DataFrame, dict]:
     """
     skills_df = pd.read_excel('new_ESCO_mapping.xlsx')
     for col in ['skills_levels', 'knowledge_levels', 'traversal_levels',
-                'skills_ancestors', 'knowledge_ancestors', 'traversal_ancestors', 'children']:
-        skills_df[col] = skills_df[col].apply(eval)
+                'skills_ancestors', 'knowledge_ancestors', 'traversal_ancestors',
+                'language_levels', 'language_ancestors', 'children']:
+        if col in skills_df.columns:
+            skills_df[col] = skills_df[col].apply(eval)
 
     skill_labels_dict = {
         row['conceptUri']: row['preferredLabel']
@@ -266,8 +466,10 @@ def run_hcv(pillar: str, skills_list: list) -> list:
     """
     skills_df, skill_labels_dict = load_esco()
 
-    levels_column = f"{pillar}_levels"
-    ancestors_column = f"{pillar}_ancestors"
+    # The ESCO mapping names the language columns 'language_*', while the API/UI use 'languages'
+    column_prefix = "language" if pillar == "languages" else pillar
+    levels_column = f"{column_prefix}_levels"
+    ancestors_column = f"{column_prefix}_ancestors"
 
     pillar_children = dict(create_children_dictionary(levels_column, skills_df))
     pillar_ancestors = create_ancestors_dict(ancestors_column, skills_df)
@@ -570,7 +772,7 @@ def hcv_jobs(
 
     print("Request body sent to /jobs:", request_body)
     with _analysis_file(file_path):
-        items = fetch_all_pages(request_body, endpoint='jobs')
+        items = fetch_jobs_with_fallback(request_body)
         if not items:
             _save_result(file_path, [])
             return []
@@ -834,7 +1036,7 @@ def hcv_courses(
 @app.get("/TurfAnalysis/jobs")
 def turf_jobs(
         pillar: str,
-        combinations: int,
+        combinations: int = Query(..., ge=1, le=5, description="Skills per combination (max 5)"),
         keywords: Optional[str] = Query(None, description="Comma-separated keywords"),
         keywords_logic: Optional[str] = Query(None, description="Logic for keywords (e.g. AND, OR)"),
         ids: Optional[str] = Query(None, description="Comma-separated job IDs (integers)"),
@@ -915,7 +1117,7 @@ def turf_jobs(
     with _analysis_file(file_path):
         _, skill_labels_dict = load_esco()
 
-        items = fetch_all_pages(request_body, endpoint='jobs')
+        items = fetch_jobs_with_fallback(request_body)
         if not items:
             _save_result(file_path, [])
             return []
@@ -939,7 +1141,7 @@ def turf_jobs(
 @app.get("/TurfAnalysis/policies")
 def turf_policies(
         pillar: str,
-        combinations: int,
+        combinations: int = Query(..., ge=1, le=5, description="Skills per combination (max 5)"),
         occupation: Optional[str] = Query(None, description="Occupation ID"),
         keywords: Optional[str] = Query(None, description="Comma-separated keywords"),
         keywords_logic: Optional[str] = Query(None, description="Logic for keywords (e.g. AND, OR)"),
@@ -1038,7 +1240,7 @@ def turf_policies(
 @app.get("/TurfAnalysis/profiles")
 def turf_profiles(
         pillar: str,
-        combinations: int,
+        combinations: int = Query(..., ge=1, le=5, description="Skills per combination (max 5)"),
         occupation: Optional[str] = Query(None, description="Occupation ID"),
         keywords: Optional[str] = Query(None, description="Comma-separated keywords"),
         keywords_logic: Optional[str] = Query(None, description="Logic for keywords (e.g. AND, OR)"),
@@ -1119,7 +1321,7 @@ def turf_profiles(
 @app.get("/TurfAnalysis/courses")
 def turf_courses(
         pillar: str,
-        combinations: int,
+        combinations: int = Query(..., ge=1, le=5, description="Skills per combination (max 5)"),
         occupation: Optional[str] = Query(None, description="Occupation ID"),
         keywords: Optional[str] = Query(None, description="Comma-separated keywords"),
         keywords_logic: Optional[str] = Query(None, description="Logic for keywords (e.g. AND, OR)"),

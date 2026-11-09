@@ -1,0 +1,3042 @@
+[
+    {
+        "Combination": "adapt to change+have computer literacy",
+        "Skills": [
+            "adapt to change",
+            "have computer literacy"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60"
+        ],
+        "Reach": 158060,
+        "Reach %": 90.26,
+        "Frequency": 255396,
+        "Frequency Ratio": 1.62,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+computer programming",
+        "Skills": [
+            "adapt to change",
+            "computer programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97"
+        ],
+        "Reach": 156585,
+        "Reach %": 89.42,
+        "Frequency": 244744,
+        "Frequency Ratio": 1.56,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+project management",
+        "Skills": [
+            "adapt to change",
+            "project management"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388"
+        ],
+        "Reach": 151604,
+        "Reach %": 86.57,
+        "Frequency": 230377,
+        "Frequency Ratio": 1.52,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+assist customers",
+        "Skills": [
+            "adapt to change",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 150576,
+        "Reach %": 85.98,
+        "Frequency": 208422,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+use microsoft office",
+        "Skills": [
+            "adapt to change",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 150540,
+        "Reach %": 85.96,
+        "Frequency": 228835,
+        "Frequency Ratio": 1.52,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+customer service",
+        "Skills": [
+            "adapt to change",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 150295,
+        "Reach %": 85.82,
+        "Frequency": 207138,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+develop creative ideas",
+        "Skills": [
+            "adapt to change",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 149883,
+        "Reach %": 85.59,
+        "Frequency": 222508,
+        "Frequency Ratio": 1.48,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+SQL",
+        "Skills": [
+            "adapt to change",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 149233,
+        "Reach %": 85.22,
+        "Frequency": 195180,
+        "Frequency Ratio": 1.31,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+use spreadsheets software",
+        "Skills": [
+            "adapt to change",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 148790,
+        "Reach %": 84.96,
+        "Frequency": 208281,
+        "Frequency Ratio": 1.4,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+Java (computer programming)",
+        "Skills": [
+            "adapt to change",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 148781,
+        "Reach %": 84.96,
+        "Frequency": 193819,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+think creatively",
+        "Skills": [
+            "adapt to change",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 148669,
+        "Reach %": 84.9,
+        "Frequency": 211765,
+        "Frequency Ratio": 1.42,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+create solutions to problems",
+        "Skills": [
+            "adapt to change",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 148647,
+        "Reach %": 84.88,
+        "Frequency": 210777,
+        "Frequency Ratio": 1.42,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+work in teams",
+        "Skills": [
+            "have computer literacy",
+            "work in teams"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0"
+        ],
+        "Reach": 148057,
+        "Reach %": 84.55,
+        "Frequency": 228754,
+        "Frequency Ratio": 1.55,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+database",
+        "Skills": [
+            "adapt to change",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 147754,
+        "Reach %": 84.37,
+        "Frequency": 195520,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+computer programming",
+        "Skills": [
+            "have computer literacy",
+            "computer programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97"
+        ],
+        "Reach": 147047,
+        "Reach %": 83.97,
+        "Frequency": 224354,
+        "Frequency Ratio": 1.53,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+use object-oriented programming",
+        "Skills": [
+            "adapt to change",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 146683,
+        "Reach %": 83.76,
+        "Frequency": 189115,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+computer programming",
+        "Skills": [
+            "work in teams",
+            "computer programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97"
+        ],
+        "Reach": 145184,
+        "Reach %": 82.9,
+        "Frequency": 218102,
+        "Frequency Ratio": 1.5,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+teamwork principles",
+        "Skills": [
+            "have computer literacy",
+            "teamwork principles"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01"
+        ],
+        "Reach": 144038,
+        "Reach %": 82.25,
+        "Frequency": 218138,
+        "Frequency Ratio": 1.51,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+business ICT systems",
+        "Skills": [
+            "adapt to change",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 143162,
+        "Reach %": 81.75,
+        "Frequency": 205948,
+        "Frequency Ratio": 1.44,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+work in teams",
+        "Skills": [
+            "adapt to change",
+            "work in teams"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0"
+        ],
+        "Reach": 142918,
+        "Reach %": 81.61,
+        "Frequency": 249144,
+        "Frequency Ratio": 1.74,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+English",
+        "Skills": [
+            "adapt to change",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 142105,
+        "Reach %": 81.15,
+        "Frequency": 193488,
+        "Frequency Ratio": 1.36,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+project management",
+        "Skills": [
+            "have computer literacy",
+            "project management"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388"
+        ],
+        "Reach": 140902,
+        "Reach %": 80.46,
+        "Frequency": 209987,
+        "Frequency Ratio": 1.49,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+team building",
+        "Skills": [
+            "have computer literacy",
+            "team building"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108"
+        ],
+        "Reach": 139886,
+        "Reach %": 79.88,
+        "Frequency": 204230,
+        "Frequency Ratio": 1.46,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+teamwork principles",
+        "Skills": [
+            "computer programming",
+            "teamwork principles"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01"
+        ],
+        "Reach": 139060,
+        "Reach %": 79.41,
+        "Frequency": 207486,
+        "Frequency Ratio": 1.49,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+assist customers",
+        "Skills": [
+            "have computer literacy",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 138921,
+        "Reach %": 79.33,
+        "Frequency": 188032,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+teamwork principles",
+        "Skills": [
+            "adapt to change",
+            "teamwork principles"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01"
+        ],
+        "Reach": 138537,
+        "Reach %": 79.11,
+        "Frequency": 238528,
+        "Frequency Ratio": 1.72,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+customer service",
+        "Skills": [
+            "have computer literacy",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 138495,
+        "Reach %": 79.09,
+        "Frequency": 186748,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "adapt to change+team building",
+        "Skills": [
+            "adapt to change",
+            "team building"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/49de9958-2aa4-4eef-a89d-fe5d5bcd28c4",
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108"
+        ],
+        "Reach": 137985,
+        "Reach %": 78.79,
+        "Frequency": 224620,
+        "Frequency Ratio": 1.63,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+use microsoft office",
+        "Skills": [
+            "work in teams",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 136408,
+        "Reach %": 77.89,
+        "Frequency": 202193,
+        "Frequency Ratio": 1.48,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+project management",
+        "Skills": [
+            "work in teams",
+            "project management"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388"
+        ],
+        "Reach": 135673,
+        "Reach %": 77.47,
+        "Frequency": 203735,
+        "Frequency Ratio": 1.5,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+use microsoft office",
+        "Skills": [
+            "computer programming",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 134698,
+        "Reach %": 76.92,
+        "Frequency": 197793,
+        "Frequency Ratio": 1.47,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+create solutions to problems",
+        "Skills": [
+            "have computer literacy",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 134638,
+        "Reach %": 76.88,
+        "Frequency": 190387,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+develop creative ideas",
+        "Skills": [
+            "work in teams",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 134552,
+        "Reach %": 76.83,
+        "Frequency": 195866,
+        "Frequency Ratio": 1.46,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+project management",
+        "Skills": [
+            "computer programming",
+            "project management"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388"
+        ],
+        "Reach": 134048,
+        "Reach %": 76.55,
+        "Frequency": 199335,
+        "Frequency Ratio": 1.49,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+English",
+        "Skills": [
+            "have computer literacy",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 133730,
+        "Reach %": 76.36,
+        "Frequency": 173098,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+English",
+        "Skills": [
+            "work in teams",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 133523,
+        "Reach %": 76.25,
+        "Frequency": 166846,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+develop creative ideas",
+        "Skills": [
+            "computer programming",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 133326,
+        "Reach %": 76.13,
+        "Frequency": 191466,
+        "Frequency Ratio": 1.44,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+team building",
+        "Skills": [
+            "computer programming",
+            "team building"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108"
+        ],
+        "Reach": 132759,
+        "Reach %": 75.81,
+        "Frequency": 193578,
+        "Frequency Ratio": 1.46,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+English",
+        "Skills": [
+            "computer programming",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 132631,
+        "Reach %": 75.74,
+        "Frequency": 162446,
+        "Frequency Ratio": 1.22,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+assist customers",
+        "Skills": [
+            "work in teams",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 132354,
+        "Reach %": 75.58,
+        "Frequency": 181780,
+        "Frequency Ratio": 1.37,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+assist customers",
+        "Skills": [
+            "computer programming",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 132144,
+        "Reach %": 75.46,
+        "Frequency": 177380,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+use spreadsheets software",
+        "Skills": [
+            "work in teams",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 132128,
+        "Reach %": 75.45,
+        "Frequency": 181639,
+        "Frequency Ratio": 1.37,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+customer service",
+        "Skills": [
+            "work in teams",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 131867,
+        "Reach %": 75.3,
+        "Frequency": 180496,
+        "Frequency Ratio": 1.37,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+customer service",
+        "Skills": [
+            "computer programming",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 131634,
+        "Reach %": 75.17,
+        "Frequency": 176096,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+SQL",
+        "Skills": [
+            "work in teams",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 131392,
+        "Reach %": 75.03,
+        "Frequency": 168538,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+think creatively",
+        "Skills": [
+            "work in teams",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 131303,
+        "Reach %": 74.98,
+        "Frequency": 185123,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+business ICT systems",
+        "Skills": [
+            "have computer literacy",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 131184,
+        "Reach %": 74.91,
+        "Frequency": 185558,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+database",
+        "Skills": [
+            "have computer literacy",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 131172,
+        "Reach %": 74.9,
+        "Frequency": 175130,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+project management",
+        "Skills": [
+            "teamwork principles",
+            "project management"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388"
+        ],
+        "Reach": 131017,
+        "Reach %": 74.82,
+        "Frequency": 193119,
+        "Frequency Ratio": 1.47,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+Java (computer programming)",
+        "Skills": [
+            "work in teams",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 130802,
+        "Reach %": 74.69,
+        "Frequency": 167177,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+Java (computer programming)",
+        "Skills": [
+            "have computer literacy",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 130622,
+        "Reach %": 74.59,
+        "Frequency": 173429,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+SQL",
+        "Skills": [
+            "have computer literacy",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 130387,
+        "Reach %": 74.46,
+        "Frequency": 174790,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+use object-oriented programming",
+        "Skills": [
+            "have computer literacy",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 129932,
+        "Reach %": 74.2,
+        "Frequency": 168725,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+create solutions to problems",
+        "Skills": [
+            "work in teams",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 129930,
+        "Reach %": 74.19,
+        "Frequency": 184135,
+        "Frequency Ratio": 1.42,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+use microsoft office",
+        "Skills": [
+            "project management",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 129860,
+        "Reach %": 74.15,
+        "Frequency": 183426,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+create solutions to problems",
+        "Skills": [
+            "computer programming",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 129645,
+        "Reach %": 74.03,
+        "Frequency": 179735,
+        "Frequency Ratio": 1.39,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+think creatively",
+        "Skills": [
+            "computer programming",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 129311,
+        "Reach %": 73.84,
+        "Frequency": 180723,
+        "Frequency Ratio": 1.4,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+develop creative ideas",
+        "Skills": [
+            "have computer literacy",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 129082,
+        "Reach %": 73.71,
+        "Frequency": 202118,
+        "Frequency Ratio": 1.57,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+database",
+        "Skills": [
+            "work in teams",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 129020,
+        "Reach %": 73.67,
+        "Frequency": 168878,
+        "Frequency Ratio": 1.31,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+assist customers",
+        "Skills": [
+            "teamwork principles",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 129009,
+        "Reach %": 73.67,
+        "Frequency": 171164,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+develop creative ideas",
+        "Skills": [
+            "teamwork principles",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 128797,
+        "Reach %": 73.55,
+        "Frequency": 185250,
+        "Frequency Ratio": 1.44,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+use microsoft office",
+        "Skills": [
+            "teamwork principles",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 128495,
+        "Reach %": 73.37,
+        "Frequency": 191577,
+        "Frequency Ratio": 1.49,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+customer service",
+        "Skills": [
+            "teamwork principles",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 128415,
+        "Reach %": 73.33,
+        "Frequency": 169880,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+use spreadsheets software",
+        "Skills": [
+            "computer programming",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 128286,
+        "Reach %": 73.26,
+        "Frequency": 177239,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+English",
+        "Skills": [
+            "teamwork principles",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 128217,
+        "Reach %": 73.22,
+        "Frequency": 156230,
+        "Frequency Ratio": 1.22,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+use object-oriented programming",
+        "Skills": [
+            "work in teams",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 128068,
+        "Reach %": 73.13,
+        "Frequency": 162473,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+develop creative ideas",
+        "Skills": [
+            "use microsoft office",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 126136,
+        "Reach %": 72.03,
+        "Frequency": 175557,
+        "Frequency Ratio": 1.39,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+team building",
+        "Skills": [
+            "project management",
+            "team building"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108"
+        ],
+        "Reach": 125878,
+        "Reach %": 71.88,
+        "Frequency": 179211,
+        "Frequency Ratio": 1.42,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+think creatively",
+        "Skills": [
+            "teamwork principles",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 125818,
+        "Reach %": 71.85,
+        "Frequency": 174507,
+        "Frequency Ratio": 1.39,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+assist customers",
+        "Skills": [
+            "use microsoft office",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 125737,
+        "Reach %": 71.8,
+        "Frequency": 161471,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+customer service",
+        "Skills": [
+            "use microsoft office",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 124880,
+        "Reach %": 71.31,
+        "Frequency": 160187,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+think creatively",
+        "Skills": [
+            "have computer literacy",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 124796,
+        "Reach %": 71.26,
+        "Frequency": 191375,
+        "Frequency Ratio": 1.53,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+use microsoft office",
+        "Skills": [
+            "have computer literacy",
+            "use microsoft office"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535"
+        ],
+        "Reach": 124777,
+        "Reach %": 71.25,
+        "Frequency": 208445,
+        "Frequency Ratio": 1.67,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+business ICT systems",
+        "Skills": [
+            "work in teams",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 124655,
+        "Reach %": 71.18,
+        "Frequency": 179306,
+        "Frequency Ratio": 1.44,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+business ICT systems",
+        "Skills": [
+            "computer programming",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 124395,
+        "Reach %": 71.03,
+        "Frequency": 174906,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+create solutions to problems",
+        "Skills": [
+            "teamwork principles",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 123892,
+        "Reach %": 70.75,
+        "Frequency": 173519,
+        "Frequency Ratio": 1.4,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+assist customers",
+        "Skills": [
+            "team building",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 123716,
+        "Reach %": 70.65,
+        "Frequency": 157256,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+develop creative ideas",
+        "Skills": [
+            "project management",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 123678,
+        "Reach %": 70.62,
+        "Frequency": 177099,
+        "Frequency Ratio": 1.43,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+use spreadsheets software",
+        "Skills": [
+            "teamwork principles",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 123616,
+        "Reach %": 70.59,
+        "Frequency": 171023,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+database",
+        "Skills": [
+            "computer programming",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 123226,
+        "Reach %": 70.37,
+        "Frequency": 164478,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+customer service",
+        "Skills": [
+            "team building",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 122901,
+        "Reach %": 70.18,
+        "Frequency": 155972,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+develop creative ideas",
+        "Skills": [
+            "team building",
+            "develop creative ideas"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49"
+        ],
+        "Reach": 122579,
+        "Reach %": 70.0,
+        "Frequency": 171342,
+        "Frequency Ratio": 1.4,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+SQL",
+        "Skills": [
+            "teamwork principles",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 122548,
+        "Reach %": 69.98,
+        "Frequency": 157922,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+use spreadsheets software",
+        "Skills": [
+            "project management",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 122383,
+        "Reach %": 69.88,
+        "Frequency": 162872,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+think creatively",
+        "Skills": [
+            "use microsoft office",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 122130,
+        "Reach %": 69.74,
+        "Frequency": 164814,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+database",
+        "Skills": [
+            "teamwork principles",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 121762,
+        "Reach %": 69.53,
+        "Frequency": 158262,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+Java (computer programming)",
+        "Skills": [
+            "teamwork principles",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 121753,
+        "Reach %": 69.53,
+        "Frequency": 156561,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+English",
+        "Skills": [
+            "team building",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 121679,
+        "Reach %": 69.48,
+        "Frequency": 142322,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+English",
+        "Skills": [
+            "use microsoft office",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 121661,
+        "Reach %": 69.47,
+        "Frequency": 146537,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+create solutions to problems",
+        "Skills": [
+            "use microsoft office",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 121188,
+        "Reach %": 69.2,
+        "Frequency": 163826,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+use object-oriented programming",
+        "Skills": [
+            "teamwork principles",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 120241,
+        "Reach %": 68.66,
+        "Frequency": 151857,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+think creatively",
+        "Skills": [
+            "team building",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 119371,
+        "Reach %": 68.16,
+        "Frequency": 160599,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+team building",
+        "Skills": [
+            "use microsoft office",
+            "team building"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108"
+        ],
+        "Reach": 119066,
+        "Reach %": 67.99,
+        "Frequency": 177669,
+        "Frequency Ratio": 1.49,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+English",
+        "Skills": [
+            "project management",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 118623,
+        "Reach %": 67.74,
+        "Frequency": 148079,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+use object-oriented programming",
+        "Skills": [
+            "computer programming",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 118383,
+        "Reach %": 67.6,
+        "Frequency": 158073,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+think creatively",
+        "Skills": [
+            "project management",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 118025,
+        "Reach %": 67.4,
+        "Frequency": 166356,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "have computer literacy+use spreadsheets software",
+        "Skills": [
+            "have computer literacy",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d15ce60f-ddab-41ce-ba56-398451b77b60",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 117739,
+        "Reach %": 67.23,
+        "Frequency": 187891,
+        "Frequency Ratio": 1.6,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+create solutions to problems",
+        "Skills": [
+            "team building",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 117266,
+        "Reach %": 66.96,
+        "Frequency": 159611,
+        "Frequency Ratio": 1.36,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+create solutions to problems",
+        "Skills": [
+            "project management",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 116994,
+        "Reach %": 66.81,
+        "Frequency": 165368,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+assist customers",
+        "Skills": [
+            "project management",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 116892,
+        "Reach %": 66.75,
+        "Frequency": 163013,
+        "Frequency Ratio": 1.39,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+SQL",
+        "Skills": [
+            "project management",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 116347,
+        "Reach %": 66.44,
+        "Frequency": 149771,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+customer service",
+        "Skills": [
+            "project management",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 116284,
+        "Reach %": 66.4,
+        "Frequency": 161729,
+        "Frequency Ratio": 1.39,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+business ICT systems",
+        "Skills": [
+            "teamwork principles",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 115861,
+        "Reach %": 66.16,
+        "Frequency": 168690,
+        "Frequency Ratio": 1.46,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+use spreadsheets software",
+        "Skills": [
+            "develop creative ideas",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 115861,
+        "Reach %": 66.16,
+        "Frequency": 155003,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+Java (computer programming)",
+        "Skills": [
+            "project management",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 115782,
+        "Reach %": 66.12,
+        "Frequency": 148410,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+assist customers",
+        "Skills": [
+            "develop creative ideas",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 115274,
+        "Reach %": 65.83,
+        "Frequency": 155144,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+use spreadsheets software",
+        "Skills": [
+            "assist customers",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 115199,
+        "Reach %": 65.78,
+        "Frequency": 140917,
+        "Frequency Ratio": 1.22,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+customer service",
+        "Skills": [
+            "develop creative ideas",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 114716,
+        "Reach %": 65.51,
+        "Frequency": 153860,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+business ICT systems",
+        "Skills": [
+            "project management",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 114565,
+        "Reach %": 65.42,
+        "Frequency": 160539,
+        "Frequency Ratio": 1.4,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use spreadsheets software+customer service",
+        "Skills": [
+            "use spreadsheets software",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 114263,
+        "Reach %": 65.25,
+        "Frequency": 139633,
+        "Frequency Ratio": 1.22,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+database",
+        "Skills": [
+            "use microsoft office",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 114068,
+        "Reach %": 65.14,
+        "Frequency": 148569,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+database",
+        "Skills": [
+            "team building",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 113373,
+        "Reach %": 64.74,
+        "Frequency": 144354,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+use spreadsheets software",
+        "Skills": [
+            "team building",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 113122,
+        "Reach %": 64.6,
+        "Frequency": 157115,
+        "Frequency Ratio": 1.39,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+teamwork principles",
+        "Skills": [
+            "work in teams",
+            "teamwork principles"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01"
+        ],
+        "Reach": 112990,
+        "Reach %": 64.52,
+        "Frequency": 211886,
+        "Frequency Ratio": 1.88,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+English",
+        "Skills": [
+            "develop creative ideas",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 112735,
+        "Reach %": 64.38,
+        "Frequency": 140210,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+SQL",
+        "Skills": [
+            "team building",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 112614,
+        "Reach %": 64.31,
+        "Frequency": 144014,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+Java (computer programming)",
+        "Skills": [
+            "use microsoft office",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 112485,
+        "Reach %": 64.23,
+        "Frequency": 146868,
+        "Frequency Ratio": 1.31,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+database",
+        "Skills": [
+            "project management",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 112468,
+        "Reach %": 64.22,
+        "Frequency": 150111,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+SQL",
+        "Skills": [
+            "computer programming",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 112411,
+        "Reach %": 64.19,
+        "Frequency": 164138,
+        "Frequency Ratio": 1.46,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+SQL",
+        "Skills": [
+            "use microsoft office",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 112332,
+        "Reach %": 64.15,
+        "Frequency": 148229,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+business ICT systems",
+        "Skills": [
+            "develop creative ideas",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 111966,
+        "Reach %": 63.94,
+        "Frequency": 152670,
+        "Frequency Ratio": 1.36,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+create solutions to problems",
+        "Skills": [
+            "develop creative ideas",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 111908,
+        "Reach %": 63.9,
+        "Frequency": 157499,
+        "Frequency Ratio": 1.41,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "project management+use object-oriented programming",
+        "Skills": [
+            "project management",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 111854,
+        "Reach %": 63.87,
+        "Frequency": 143706,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+use object-oriented programming",
+        "Skills": [
+            "use microsoft office",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 111626,
+        "Reach %": 63.74,
+        "Frequency": 142164,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "work in teams+team building",
+        "Skills": [
+            "work in teams",
+            "team building"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108"
+        ],
+        "Reach": 111548,
+        "Reach %": 63.7,
+        "Frequency": 197978,
+        "Frequency Ratio": 1.77,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+Java (computer programming)",
+        "Skills": [
+            "team building",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 111451,
+        "Reach %": 63.64,
+        "Frequency": 142653,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+use object-oriented programming",
+        "Skills": [
+            "team building",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 110542,
+        "Reach %": 63.12,
+        "Frequency": 137949,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+use spreadsheets software",
+        "Skills": [
+            "think creatively",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 110212,
+        "Reach %": 62.93,
+        "Frequency": 144260,
+        "Frequency Ratio": 1.31,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+use spreadsheets software",
+        "Skills": [
+            "create solutions to problems",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 110032,
+        "Reach %": 62.83,
+        "Frequency": 143272,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "business ICT systems+English",
+        "Skills": [
+            "business ICT systems",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 110025,
+        "Reach %": 62.83,
+        "Frequency": 123650,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+database",
+        "Skills": [
+            "develop creative ideas",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 109832,
+        "Reach %": 62.72,
+        "Frequency": 142242,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+business ICT systems",
+        "Skills": [
+            "use microsoft office",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 109801,
+        "Reach %": 62.7,
+        "Frequency": 158997,
+        "Frequency Ratio": 1.45,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+SQL",
+        "Skills": [
+            "develop creative ideas",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 109061,
+        "Reach %": 62.28,
+        "Frequency": 141902,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+Java (computer programming)",
+        "Skills": [
+            "develop creative ideas",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 108535,
+        "Reach %": 61.98,
+        "Frequency": 140541,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+assist customers",
+        "Skills": [
+            "think creatively",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 107565,
+        "Reach %": 61.42,
+        "Frequency": 144401,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+use object-oriented programming",
+        "Skills": [
+            "develop creative ideas",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 107535,
+        "Reach %": 61.41,
+        "Frequency": 135837,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "computer programming+Java (computer programming)",
+        "Skills": [
+            "computer programming",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 107252,
+        "Reach %": 61.24,
+        "Frequency": 162777,
+        "Frequency Ratio": 1.52,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+customer service",
+        "Skills": [
+            "think creatively",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 106998,
+        "Reach %": 61.1,
+        "Frequency": 143117,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+business ICT systems",
+        "Skills": [
+            "think creatively",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 106635,
+        "Reach %": 60.89,
+        "Frequency": 141927,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+English",
+        "Skills": [
+            "create solutions to problems",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 106501,
+        "Reach %": 60.82,
+        "Frequency": 128479,
+        "Frequency Ratio": 1.21,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+assist customers",
+        "Skills": [
+            "create solutions to problems",
+            "assist customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3"
+        ],
+        "Reach": 105856,
+        "Reach %": 60.45,
+        "Frequency": 143413,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use spreadsheets software+business ICT systems",
+        "Skills": [
+            "use spreadsheets software",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 105455,
+        "Reach %": 60.22,
+        "Frequency": 138443,
+        "Frequency Ratio": 1.31,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+SQL",
+        "Skills": [
+            "assist customers",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 105254,
+        "Reach %": 60.1,
+        "Frequency": 127816,
+        "Frequency Ratio": 1.21,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "team building+business ICT systems",
+        "Skills": [
+            "team building",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 105250,
+        "Reach %": 60.1,
+        "Frequency": 154782,
+        "Frequency Ratio": 1.47,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+English",
+        "Skills": [
+            "think creatively",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 105184,
+        "Reach %": 60.06,
+        "Frequency": 129467,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+customer service",
+        "Skills": [
+            "create solutions to problems",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 105062,
+        "Reach %": 59.99,
+        "Frequency": 142129,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+English",
+        "Skills": [
+            "assist customers",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 105058,
+        "Reach %": 59.99,
+        "Frequency": 126124,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use spreadsheets software+English",
+        "Skills": [
+            "use spreadsheets software",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 104997,
+        "Reach %": 59.96,
+        "Frequency": 125983,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+Java (computer programming)",
+        "Skills": [
+            "assist customers",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 104788,
+        "Reach %": 59.84,
+        "Frequency": 126455,
+        "Frequency Ratio": 1.21,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+business ICT systems",
+        "Skills": [
+            "assist customers",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 104768,
+        "Reach %": 59.83,
+        "Frequency": 138584,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+business ICT systems",
+        "Skills": [
+            "create solutions to problems",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 104753,
+        "Reach %": 59.82,
+        "Frequency": 140939,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "customer service+SQL",
+        "Skills": [
+            "customer service",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 104418,
+        "Reach %": 59.63,
+        "Frequency": 126532,
+        "Frequency Ratio": 1.21,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "customer service+English",
+        "Skills": [
+            "customer service",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 104417,
+        "Reach %": 59.63,
+        "Frequency": 124840,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "customer service+Java (computer programming)",
+        "Skills": [
+            "customer service",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 103927,
+        "Reach %": 59.35,
+        "Frequency": 125171,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "customer service+business ICT systems",
+        "Skills": [
+            "customer service",
+            "business ICT systems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53"
+        ],
+        "Reach": 103885,
+        "Reach %": 59.32,
+        "Frequency": 137300,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+create solutions to problems",
+        "Skills": [
+            "think creatively",
+            "create solutions to problems"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041"
+        ],
+        "Reach": 103277,
+        "Reach %": 58.97,
+        "Frequency": 146756,
+        "Frequency Ratio": 1.42,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+SQL",
+        "Skills": [
+            "create solutions to problems",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 102600,
+        "Reach %": 58.59,
+        "Frequency": 130171,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+Java (computer programming)",
+        "Skills": [
+            "create solutions to problems",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 102551,
+        "Reach %": 58.56,
+        "Frequency": 128810,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+database",
+        "Skills": [
+            "think creatively",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 102515,
+        "Reach %": 58.54,
+        "Frequency": 131499,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+SQL",
+        "Skills": [
+            "think creatively",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 101869,
+        "Reach %": 58.17,
+        "Frequency": 131159,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+database",
+        "Skills": [
+            "create solutions to problems",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 101429,
+        "Reach %": 57.92,
+        "Frequency": 130511,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+Java (computer programming)",
+        "Skills": [
+            "think creatively",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 101394,
+        "Reach %": 57.9,
+        "Frequency": 129798,
+        "Frequency Ratio": 1.28,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+database",
+        "Skills": [
+            "assist customers",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 101006,
+        "Reach %": 57.68,
+        "Frequency": 128156,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "teamwork principles+team building",
+        "Skills": [
+            "teamwork principles",
+            "team building"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01",
+            "http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108"
+        ],
+        "Reach": 100940,
+        "Reach %": 57.64,
+        "Frequency": 187362,
+        "Frequency Ratio": 1.86,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use spreadsheets software+database",
+        "Skills": [
+            "use spreadsheets software",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 100617,
+        "Reach %": 57.46,
+        "Frequency": 128015,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "customer service+database",
+        "Skills": [
+            "customer service",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 100267,
+        "Reach %": 57.26,
+        "Frequency": 126872,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "create solutions to problems+use object-oriented programming",
+        "Skills": [
+            "create solutions to problems",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 99828,
+        "Reach %": 57.01,
+        "Frequency": 124106,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "business ICT systems+SQL",
+        "Skills": [
+            "business ICT systems",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 99714,
+        "Reach %": 56.94,
+        "Frequency": 125342,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "think creatively+use object-oriented programming",
+        "Skills": [
+            "think creatively",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 99328,
+        "Reach %": 56.72,
+        "Frequency": 125094,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "business ICT systems+database",
+        "Skills": [
+            "business ICT systems",
+            "database"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576"
+        ],
+        "Reach": 99154,
+        "Reach %": 56.62,
+        "Frequency": 125682,
+        "Frequency Ratio": 1.27,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "business ICT systems+Java (computer programming)",
+        "Skills": [
+            "business ICT systems",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 98764,
+        "Reach %": 56.4,
+        "Frequency": 123981,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+use object-oriented programming",
+        "Skills": [
+            "assist customers",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 98050,
+        "Reach %": 55.99,
+        "Frequency": 121751,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "customer service+use object-oriented programming",
+        "Skills": [
+            "customer service",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 97075,
+        "Reach %": 55.43,
+        "Frequency": 120467,
+        "Frequency Ratio": 1.24,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use spreadsheets software+use object-oriented programming",
+        "Skills": [
+            "use spreadsheets software",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 96953,
+        "Reach %": 55.36,
+        "Frequency": 121610,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use spreadsheets software+Java (computer programming)",
+        "Skills": [
+            "use spreadsheets software",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 96835,
+        "Reach %": 55.3,
+        "Frequency": 126314,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use spreadsheets software+SQL",
+        "Skills": [
+            "use spreadsheets software",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 96285,
+        "Reach %": 54.98,
+        "Frequency": 127675,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "SQL+English",
+        "Skills": [
+            "SQL",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 95911,
+        "Reach %": 54.77,
+        "Frequency": 112882,
+        "Frequency Ratio": 1.18,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "business ICT systems+use object-oriented programming",
+        "Skills": [
+            "business ICT systems",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/ccdbd9bb-4faf-403c-a968-e8bf487f8a53",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 95507,
+        "Reach %": 54.54,
+        "Frequency": 119277,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "Java (computer programming)+English",
+        "Skills": [
+            "Java (computer programming)",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 95459,
+        "Reach %": 54.51,
+        "Frequency": 111521,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "develop creative ideas+think creatively",
+        "Skills": [
+            "develop creative ideas",
+            "think creatively"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+            "http://data.europa.eu/esco/skill/c624c6a3-b0ba-4a31-a296-0d433fe47e41"
+        ],
+        "Reach": 94673,
+        "Reach %": 54.06,
+        "Frequency": 158487,
+        "Frequency Ratio": 1.67,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "database+English",
+        "Skills": [
+            "database",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 92959,
+        "Reach %": 53.08,
+        "Frequency": 113222,
+        "Frequency Ratio": 1.22,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+use spreadsheets software",
+        "Skills": [
+            "use microsoft office",
+            "use spreadsheets software"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be"
+        ],
+        "Reach": 91207,
+        "Reach %": 52.08,
+        "Frequency": 161330,
+        "Frequency Ratio": 1.77,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+use object-oriented programming",
+        "Skills": [
+            "English",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 91148,
+        "Reach %": 52.05,
+        "Frequency": 106817,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "database+Java (computer programming)",
+        "Skills": [
+            "database",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 89853,
+        "Reach %": 51.31,
+        "Frequency": 113553,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "database+use object-oriented programming",
+        "Skills": [
+            "database",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 86892,
+        "Reach %": 49.62,
+        "Frequency": 108849,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "SQL+use object-oriented programming",
+        "Skills": [
+            "SQL",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 86644,
+        "Reach %": 49.48,
+        "Frequency": 108509,
+        "Frequency Ratio": 1.25,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "database+SQL",
+        "Skills": [
+            "database",
+            "SQL"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576",
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742"
+        ],
+        "Reach": 83736,
+        "Reach %": 47.82,
+        "Frequency": 114914,
+        "Frequency Ratio": 1.37,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "Java (computer programming)+use object-oriented programming",
+        "Skills": [
+            "Java (computer programming)",
+            "use object-oriented programming"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+            "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d"
+        ],
+        "Reach": 81460,
+        "Reach %": 46.52,
+        "Frequency": 107148,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assist customers+customer service",
+        "Skills": [
+            "assist customers",
+            "customer service"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+            "http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc"
+        ],
+        "Reach": 71400,
+        "Reach %": 40.77,
+        "Frequency": 139774,
+        "Frequency Ratio": 1.96,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "SQL+Java (computer programming)",
+        "Skills": [
+            "SQL",
+            "Java (computer programming)"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+            "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389"
+        ],
+        "Reach": 67159,
+        "Reach %": 38.35,
+        "Frequency": 113213,
+        "Frequency Ratio": 1.69,
+        "Combination Number": 2
+    }
+]

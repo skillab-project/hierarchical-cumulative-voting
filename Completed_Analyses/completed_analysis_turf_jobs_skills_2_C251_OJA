@@ -1,0 +1,3042 @@
+[
+    {
+        "Combination": "use microsoft office+cooperate with colleagues",
+        "Skills": [
+            "use microsoft office",
+            "cooperate with colleagues"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c"
+        ],
+        "Reach": 116,
+        "Reach %": 47.35,
+        "Frequency": 119,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+English",
+        "Skills": [
+            "use microsoft office",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 108,
+        "Reach %": 44.08,
+        "Frequency": 116,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+English",
+        "Skills": [
+            "cooperate with colleagues",
+            "English"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0"
+        ],
+        "Reach": 97,
+        "Reach %": 39.59,
+        "Frequency": 99,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+production processes",
+        "Skills": [
+            "use microsoft office",
+            "production processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77"
+        ],
+        "Reach": 96,
+        "Reach %": 39.18,
+        "Frequency": 98,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+communication",
+        "Skills": [
+            "use microsoft office",
+            "communication"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7"
+        ],
+        "Reach": 95,
+        "Reach %": 38.78,
+        "Frequency": 108,
+        "Frequency Ratio": 1.14,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+communicate with customers",
+        "Skills": [
+            "use microsoft office",
+            "communicate with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127"
+        ],
+        "Reach": 95,
+        "Reach %": 38.78,
+        "Frequency": 105,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+perform multiple tasks at the same time",
+        "Skills": [
+            "use microsoft office",
+            "perform multiple tasks at the same time"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604"
+        ],
+        "Reach": 94,
+        "Reach %": 38.37,
+        "Frequency": 99,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+ensure compliance with company regulations",
+        "Skills": [
+            "use microsoft office",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 93,
+        "Reach %": 37.96,
+        "Frequency": 94,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+hygiene in a health care setting",
+        "Skills": [
+            "use microsoft office",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 92,
+        "Reach %": 37.55,
+        "Frequency": 92,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+pharmaceutical industry",
+        "Skills": [
+            "use microsoft office",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 90,
+        "Reach %": 36.73,
+        "Frequency": 91,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+communication",
+        "Skills": [
+            "cooperate with colleagues",
+            "communication"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7"
+        ],
+        "Reach": 90,
+        "Reach %": 36.73,
+        "Frequency": 91,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+promote health and safety",
+        "Skills": [
+            "use microsoft office",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 90,
+        "Reach %": 36.73,
+        "Frequency": 90,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+perform quality audits",
+        "Skills": [
+            "use microsoft office",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 89,
+        "Reach %": 36.33,
+        "Frequency": 89,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+answer incoming calls",
+        "Skills": [
+            "use microsoft office",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 87,
+        "Reach %": 35.51,
+        "Frequency": 90,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+packaging functions",
+        "Skills": [
+            "use microsoft office",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 87,
+        "Reach %": 35.51,
+        "Frequency": 88,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+study a collection",
+        "Skills": [
+            "use microsoft office",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 87,
+        "Reach %": 35.51,
+        "Frequency": 88,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+control production",
+        "Skills": [
+            "use microsoft office",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 87,
+        "Reach %": 35.51,
+        "Frequency": 88,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+communicate with customers",
+        "Skills": [
+            "cooperate with colleagues",
+            "communicate with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127"
+        ],
+        "Reach": 87,
+        "Reach %": 35.51,
+        "Frequency": 88,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+assume responsibility",
+        "Skills": [
+            "use microsoft office",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 86,
+        "Reach %": 35.1,
+        "Frequency": 91,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+negotiate compromises",
+        "Skills": [
+            "use microsoft office",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 84,
+        "Reach %": 34.29,
+        "Frequency": 89,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+interact with users to gather requirements",
+        "Skills": [
+            "use microsoft office",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 84,
+        "Reach %": 34.29,
+        "Frequency": 89,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "use microsoft office+sales activities",
+        "Skills": [
+            "use microsoft office",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 83,
+        "Reach %": 33.88,
+        "Frequency": 91,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+communication",
+        "Skills": [
+            "English",
+            "communication"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7"
+        ],
+        "Reach": 83,
+        "Reach %": 33.88,
+        "Frequency": 88,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+perform multiple tasks at the same time",
+        "Skills": [
+            "cooperate with colleagues",
+            "perform multiple tasks at the same time"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604"
+        ],
+        "Reach": 81,
+        "Reach %": 33.06,
+        "Frequency": 82,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+communicate with customers",
+        "Skills": [
+            "English",
+            "communicate with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127"
+        ],
+        "Reach": 79,
+        "Reach %": 32.24,
+        "Frequency": 85,
+        "Frequency Ratio": 1.08,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+production processes",
+        "Skills": [
+            "English",
+            "production processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77"
+        ],
+        "Reach": 78,
+        "Reach %": 31.84,
+        "Frequency": 78,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+perform multiple tasks at the same time",
+        "Skills": [
+            "English",
+            "perform multiple tasks at the same time"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604"
+        ],
+        "Reach": 75,
+        "Reach %": 30.61,
+        "Frequency": 79,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+assume responsibility",
+        "Skills": [
+            "cooperate with colleagues",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 74,
+        "Reach %": 30.2,
+        "Frequency": 74,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+sales activities",
+        "Skills": [
+            "cooperate with colleagues",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 74,
+        "Reach %": 30.2,
+        "Frequency": 74,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+answer incoming calls",
+        "Skills": [
+            "cooperate with colleagues",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 73,
+        "Reach %": 29.8,
+        "Frequency": 73,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+negotiate compromises",
+        "Skills": [
+            "cooperate with colleagues",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 72,
+        "Reach %": 29.39,
+        "Frequency": 72,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+interact with users to gather requirements",
+        "Skills": [
+            "cooperate with colleagues",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 72,
+        "Reach %": 29.39,
+        "Frequency": 72,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+hygiene in a health care setting",
+        "Skills": [
+            "English",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 72,
+        "Reach %": 29.39,
+        "Frequency": 72,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+pharmaceutical industry",
+        "Skills": [
+            "English",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 71,
+        "Reach %": 28.98,
+        "Frequency": 71,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+promote health and safety",
+        "Skills": [
+            "English",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 70,
+        "Reach %": 28.57,
+        "Frequency": 70,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+production processes",
+        "Skills": [
+            "communication",
+            "production processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77"
+        ],
+        "Reach": 70,
+        "Reach %": 28.57,
+        "Frequency": 70,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+ensure compliance with company regulations",
+        "Skills": [
+            "English",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 69,
+        "Reach %": 28.16,
+        "Frequency": 74,
+        "Frequency Ratio": 1.07,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+assume responsibility",
+        "Skills": [
+            "English",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 69,
+        "Reach %": 28.16,
+        "Frequency": 71,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+sales activities",
+        "Skills": [
+            "English",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 69,
+        "Reach %": 28.16,
+        "Frequency": 71,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+answer incoming calls",
+        "Skills": [
+            "English",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 69,
+        "Reach %": 28.16,
+        "Frequency": 70,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+negotiate compromises",
+        "Skills": [
+            "English",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 68,
+        "Reach %": 27.76,
+        "Frequency": 69,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+perform quality audits",
+        "Skills": [
+            "English",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 68,
+        "Reach %": 27.76,
+        "Frequency": 69,
+        "Frequency Ratio": 1.01,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+packaging functions",
+        "Skills": [
+            "English",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 68,
+        "Reach %": 27.76,
+        "Frequency": 68,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+study a collection",
+        "Skills": [
+            "English",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 68,
+        "Reach %": 27.76,
+        "Frequency": 68,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+control production",
+        "Skills": [
+            "English",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 68,
+        "Reach %": 27.76,
+        "Frequency": 68,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+perform multiple tasks at the same time",
+        "Skills": [
+            "communication",
+            "perform multiple tasks at the same time"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604"
+        ],
+        "Reach": 67,
+        "Reach %": 27.35,
+        "Frequency": 71,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+production processes",
+        "Skills": [
+            "communicate with customers",
+            "production processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77"
+        ],
+        "Reach": 67,
+        "Reach %": 27.35,
+        "Frequency": 67,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+communicate with customers",
+        "Skills": [
+            "communication",
+            "communicate with customers"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127"
+        ],
+        "Reach": 66,
+        "Reach %": 26.94,
+        "Frequency": 77,
+        "Frequency Ratio": 1.17,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+ensure compliance with company regulations",
+        "Skills": [
+            "communication",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 66,
+        "Reach %": 26.94,
+        "Frequency": 66,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "English+interact with users to gather requirements",
+        "Skills": [
+            "English",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/6d3edede-8951-4621-a835-e04323300fa0",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 65,
+        "Reach %": 26.53,
+        "Frequency": 69,
+        "Frequency Ratio": 1.06,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+hygiene in a health care setting",
+        "Skills": [
+            "communication",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 64,
+        "Reach %": 26.12,
+        "Frequency": 64,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+pharmaceutical industry",
+        "Skills": [
+            "communication",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 63,
+        "Reach %": 25.71,
+        "Frequency": 63,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+ensure compliance with company regulations",
+        "Skills": [
+            "communicate with customers",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 63,
+        "Reach %": 25.71,
+        "Frequency": 63,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+answer incoming calls",
+        "Skills": [
+            "communication",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 62,
+        "Reach %": 25.31,
+        "Frequency": 62,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+perform multiple tasks at the same time",
+        "Skills": [
+            "communicate with customers",
+            "perform multiple tasks at the same time"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604"
+        ],
+        "Reach": 61,
+        "Reach %": 24.9,
+        "Frequency": 68,
+        "Frequency Ratio": 1.11,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+interact with users to gather requirements",
+        "Skills": [
+            "communication",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 61,
+        "Reach %": 24.9,
+        "Frequency": 61,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+hygiene in a health care setting",
+        "Skills": [
+            "communicate with customers",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 61,
+        "Reach %": 24.9,
+        "Frequency": 61,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+production processes",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "production processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77"
+        ],
+        "Reach": 61,
+        "Reach %": 24.9,
+        "Frequency": 61,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+production processes",
+        "Skills": [
+            "cooperate with colleagues",
+            "production processes"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 81,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+sales activities",
+        "Skills": [
+            "communication",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 63,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+promote health and safety",
+        "Skills": [
+            "communication",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 62,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+perform quality audits",
+        "Skills": [
+            "communication",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 61,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+packaging functions",
+        "Skills": [
+            "communication",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 60,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+study a collection",
+        "Skills": [
+            "communication",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 60,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+assume responsibility",
+        "Skills": [
+            "communicate with customers",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 60,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+pharmaceutical industry",
+        "Skills": [
+            "communicate with customers",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 60,
+        "Reach %": 24.49,
+        "Frequency": 60,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+control production",
+        "Skills": [
+            "communication",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 59,
+        "Reach %": 24.08,
+        "Frequency": 60,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+promote health and safety",
+        "Skills": [
+            "communicate with customers",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 59,
+        "Reach %": 24.08,
+        "Frequency": 59,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+negotiate compromises",
+        "Skills": [
+            "communication",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 58,
+        "Reach %": 23.67,
+        "Frequency": 61,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+sales activities",
+        "Skills": [
+            "communicate with customers",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 58,
+        "Reach %": 23.67,
+        "Frequency": 60,
+        "Frequency Ratio": 1.03,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+perform quality audits",
+        "Skills": [
+            "communicate with customers",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 58,
+        "Reach %": 23.67,
+        "Frequency": 58,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+ensure compliance with company regulations",
+        "Skills": [
+            "cooperate with colleagues",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 57,
+        "Reach %": 23.27,
+        "Frequency": 77,
+        "Frequency Ratio": 1.35,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+hygiene in a health care setting",
+        "Skills": [
+            "cooperate with colleagues",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 57,
+        "Reach %": 23.27,
+        "Frequency": 75,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+negotiate compromises",
+        "Skills": [
+            "communicate with customers",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 57,
+        "Reach %": 23.27,
+        "Frequency": 58,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+packaging functions",
+        "Skills": [
+            "communicate with customers",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 57,
+        "Reach %": 23.27,
+        "Frequency": 57,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+study a collection",
+        "Skills": [
+            "communicate with customers",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 57,
+        "Reach %": 23.27,
+        "Frequency": 57,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+ensure compliance with company regulations",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 57,
+        "Reach %": 23.27,
+        "Frequency": 57,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+control production",
+        "Skills": [
+            "communicate with customers",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 56,
+        "Reach %": 22.86,
+        "Frequency": 57,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+promote health and safety",
+        "Skills": [
+            "cooperate with colleagues",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 55,
+        "Reach %": 22.45,
+        "Frequency": 73,
+        "Frequency Ratio": 1.33,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communication+assume responsibility",
+        "Skills": [
+            "communication",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 55,
+        "Reach %": 22.45,
+        "Frequency": 63,
+        "Frequency Ratio": 1.15,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+interact with users to gather requirements",
+        "Skills": [
+            "communicate with customers",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 55,
+        "Reach %": 22.45,
+        "Frequency": 58,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+pharmaceutical industry",
+        "Skills": [
+            "cooperate with colleagues",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 54,
+        "Reach %": 22.04,
+        "Frequency": 74,
+        "Frequency Ratio": 1.37,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "communicate with customers+answer incoming calls",
+        "Skills": [
+            "communicate with customers",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0da516ee-e70e-4384-be13-f5ff80be8127",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 54,
+        "Reach %": 22.04,
+        "Frequency": 59,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+sales activities",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 54,
+        "Reach %": 22.04,
+        "Frequency": 54,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+hygiene in a health care setting",
+        "Skills": [
+            "production processes",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 54,
+        "Reach %": 22.04,
+        "Frequency": 54,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+packaging functions",
+        "Skills": [
+            "cooperate with colleagues",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 71,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+study a collection",
+        "Skills": [
+            "cooperate with colleagues",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 71,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+control production",
+        "Skills": [
+            "cooperate with colleagues",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 71,
+        "Frequency Ratio": 1.34,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+assume responsibility",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 54,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+pharmaceutical industry",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 54,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+promote health and safety",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 53,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+assume responsibility",
+        "Skills": [
+            "production processes",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 53,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+sales activities",
+        "Skills": [
+            "production processes",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 53,
+        "Reach %": 21.63,
+        "Frequency": 53,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "cooperate with colleagues+perform quality audits",
+        "Skills": [
+            "cooperate with colleagues",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 52,
+        "Reach %": 21.22,
+        "Frequency": 72,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+negotiate compromises",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 52,
+        "Reach %": 21.22,
+        "Frequency": 52,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+perform quality audits",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 52,
+        "Reach %": 21.22,
+        "Frequency": 52,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+interact with users to gather requirements",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 52,
+        "Reach %": 21.22,
+        "Frequency": 52,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+answer incoming calls",
+        "Skills": [
+            "production processes",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 52,
+        "Reach %": 21.22,
+        "Frequency": 52,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+promote health and safety",
+        "Skills": [
+            "production processes",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 51,
+        "Reach %": 20.82,
+        "Frequency": 52,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+packaging functions",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 51,
+        "Reach %": 20.82,
+        "Frequency": 51,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+study a collection",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 51,
+        "Reach %": 20.82,
+        "Frequency": 51,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+control production",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 51,
+        "Reach %": 20.82,
+        "Frequency": 51,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+negotiate compromises",
+        "Skills": [
+            "production processes",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 51,
+        "Reach %": 20.82,
+        "Frequency": 51,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+interact with users to gather requirements",
+        "Skills": [
+            "production processes",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 51,
+        "Reach %": 20.82,
+        "Frequency": 51,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+packaging functions",
+        "Skills": [
+            "production processes",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 50,
+        "Reach %": 20.41,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+study a collection",
+        "Skills": [
+            "production processes",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 50,
+        "Reach %": 20.41,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+control production",
+        "Skills": [
+            "production processes",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 50,
+        "Reach %": 20.41,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+hygiene in a health care setting",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 50,
+        "Reach %": 20.41,
+        "Frequency": 50,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+hygiene in a health care setting",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "hygiene in a health care setting"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2"
+        ],
+        "Reach": 49,
+        "Reach %": 20.0,
+        "Frequency": 55,
+        "Frequency Ratio": 1.12,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+assume responsibility",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 49,
+        "Reach %": 20.0,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+sales activities",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 49,
+        "Reach %": 20.0,
+        "Frequency": 49,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform multiple tasks at the same time+answer incoming calls",
+        "Skills": [
+            "perform multiple tasks at the same time",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0b144726-21c2-46ed-8d13-c03d27f61604",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 48,
+        "Reach %": 19.59,
+        "Frequency": 53,
+        "Frequency Ratio": 1.1,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+promote health and safety",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 48,
+        "Reach %": 19.59,
+        "Frequency": 48,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+answer incoming calls",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 48,
+        "Reach %": 19.59,
+        "Frequency": 48,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+negotiate compromises",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 47,
+        "Reach %": 19.18,
+        "Frequency": 47,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+assume responsibility",
+        "Skills": [
+            "hygiene in a health care setting",
+            "assume responsibility"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1"
+        ],
+        "Reach": 47,
+        "Reach %": 19.18,
+        "Frequency": 47,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+sales activities",
+        "Skills": [
+            "hygiene in a health care setting",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 47,
+        "Reach %": 19.18,
+        "Frequency": 47,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+packaging functions",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 46,
+        "Reach %": 18.78,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+study a collection",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 46,
+        "Reach %": 18.78,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+control production",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 46,
+        "Reach %": 18.78,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+answer incoming calls",
+        "Skills": [
+            "hygiene in a health care setting",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 46,
+        "Reach %": 18.78,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+sales activities",
+        "Skills": [
+            "assume responsibility",
+            "sales activities"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d"
+        ],
+        "Reach": 46,
+        "Reach %": 18.78,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+pharmaceutical industry",
+        "Skills": [
+            "assume responsibility",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 46,
+        "Reach %": 18.78,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+pharmaceutical industry",
+        "Skills": [
+            "sales activities",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 46,
+        "Reach %": 18.78,
+        "Frequency": 46,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+negotiate compromises",
+        "Skills": [
+            "hygiene in a health care setting",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 45,
+        "Reach %": 18.37,
+        "Frequency": 45,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+perform quality audits",
+        "Skills": [
+            "hygiene in a health care setting",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 45,
+        "Reach %": 18.37,
+        "Frequency": 45,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+interact with users to gather requirements",
+        "Skills": [
+            "hygiene in a health care setting",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 45,
+        "Reach %": 18.37,
+        "Frequency": 45,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+answer incoming calls",
+        "Skills": [
+            "assume responsibility",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 45,
+        "Reach %": 18.37,
+        "Frequency": 45,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+promote health and safety",
+        "Skills": [
+            "sales activities",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 45,
+        "Reach %": 18.37,
+        "Frequency": 45,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+answer incoming calls",
+        "Skills": [
+            "pharmaceutical industry",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 44,
+        "Reach %": 17.96,
+        "Frequency": 45,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+perform quality audits",
+        "Skills": [
+            "assume responsibility",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 44,
+        "Reach %": 17.96,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+interact with users to gather requirements",
+        "Skills": [
+            "assume responsibility",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 44,
+        "Reach %": 17.96,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+perform quality audits",
+        "Skills": [
+            "sales activities",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 44,
+        "Reach %": 17.96,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+negotiate compromises",
+        "Skills": [
+            "pharmaceutical industry",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 44,
+        "Reach %": 17.96,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+interact with users to gather requirements",
+        "Skills": [
+            "pharmaceutical industry",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 44,
+        "Reach %": 17.96,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "promote health and safety+answer incoming calls",
+        "Skills": [
+            "promote health and safety",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 44,
+        "Reach %": 17.96,
+        "Frequency": 44,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+interact with users to gather requirements",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 47,
+        "Frequency Ratio": 1.09,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+promote health and safety",
+        "Skills": [
+            "assume responsibility",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 45,
+        "Frequency Ratio": 1.05,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+packaging functions",
+        "Skills": [
+            "assume responsibility",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+control production",
+        "Skills": [
+            "assume responsibility",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+packaging functions",
+        "Skills": [
+            "sales activities",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+study a collection",
+        "Skills": [
+            "sales activities",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+control production",
+        "Skills": [
+            "sales activities",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "promote health and safety+negotiate compromises",
+        "Skills": [
+            "promote health and safety",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "promote health and safety+perform quality audits",
+        "Skills": [
+            "promote health and safety",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "promote health and safety+interact with users to gather requirements",
+        "Skills": [
+            "promote health and safety",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "answer incoming calls+perform quality audits",
+        "Skills": [
+            "answer incoming calls",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 43,
+        "Reach %": 17.55,
+        "Frequency": 43,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+study a collection",
+        "Skills": [
+            "assume responsibility",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 42,
+        "Reach %": 17.14,
+        "Frequency": 43,
+        "Frequency Ratio": 1.02,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "answer incoming calls+packaging functions",
+        "Skills": [
+            "answer incoming calls",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 42,
+        "Reach %": 17.14,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "answer incoming calls+study a collection",
+        "Skills": [
+            "answer incoming calls",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 42,
+        "Reach %": 17.14,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "answer incoming calls+control production",
+        "Skills": [
+            "answer incoming calls",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 42,
+        "Reach %": 17.14,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+perform quality audits",
+        "Skills": [
+            "negotiate compromises",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 42,
+        "Reach %": 17.14,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+interact with users to gather requirements",
+        "Skills": [
+            "perform quality audits",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 42,
+        "Reach %": 17.14,
+        "Frequency": 42,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+packaging functions",
+        "Skills": [
+            "negotiate compromises",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+study a collection",
+        "Skills": [
+            "negotiate compromises",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+control production",
+        "Skills": [
+            "negotiate compromises",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+packaging functions",
+        "Skills": [
+            "perform quality audits",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+study a collection",
+        "Skills": [
+            "perform quality audits",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "perform quality audits+control production",
+        "Skills": [
+            "perform quality audits",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+packaging functions",
+        "Skills": [
+            "interact with users to gather requirements",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+study a collection",
+        "Skills": [
+            "interact with users to gather requirements",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "interact with users to gather requirements+control production",
+        "Skills": [
+            "interact with users to gather requirements",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 41,
+        "Reach %": 16.73,
+        "Frequency": 41,
+        "Frequency Ratio": 1.0,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+pharmaceutical industry",
+        "Skills": [
+            "production processes",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 40,
+        "Reach %": 16.33,
+        "Frequency": 53,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+pharmaceutical industry",
+        "Skills": [
+            "hygiene in a health care setting",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 39,
+        "Reach %": 15.92,
+        "Frequency": 47,
+        "Frequency Ratio": 1.21,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "assume responsibility+negotiate compromises",
+        "Skills": [
+            "assume responsibility",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/199f7919-5114-41b6-b6a5-41e0e4896ec1",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 39,
+        "Reach %": 15.92,
+        "Frequency": 44,
+        "Frequency Ratio": 1.13,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+pharmaceutical industry",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "pharmaceutical industry"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f"
+        ],
+        "Reach": 37,
+        "Reach %": 15.1,
+        "Frequency": 49,
+        "Frequency Ratio": 1.32,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+promote health and safety",
+        "Skills": [
+            "pharmaceutical industry",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 37,
+        "Reach %": 15.1,
+        "Frequency": 45,
+        "Frequency Ratio": 1.22,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+interact with users to gather requirements",
+        "Skills": [
+            "sales activities",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 37,
+        "Reach %": 15.1,
+        "Frequency": 44,
+        "Frequency Ratio": 1.19,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+ensure compliance with company regulations",
+        "Skills": [
+            "production processes",
+            "ensure compliance with company regulations"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d"
+        ],
+        "Reach": 36,
+        "Reach %": 14.69,
+        "Frequency": 56,
+        "Frequency Ratio": 1.56,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+answer incoming calls",
+        "Skills": [
+            "sales activities",
+            "answer incoming calls"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04"
+        ],
+        "Reach": 35,
+        "Reach %": 14.29,
+        "Frequency": 45,
+        "Frequency Ratio": 1.29,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+packaging functions",
+        "Skills": [
+            "pharmaceutical industry",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 35,
+        "Reach %": 14.29,
+        "Frequency": 43,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+study a collection",
+        "Skills": [
+            "pharmaceutical industry",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 35,
+        "Reach %": 14.29,
+        "Frequency": 43,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+control production",
+        "Skills": [
+            "pharmaceutical industry",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 35,
+        "Reach %": 14.29,
+        "Frequency": 43,
+        "Frequency Ratio": 1.23,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "negotiate compromises+interact with users to gather requirements",
+        "Skills": [
+            "negotiate compromises",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 35,
+        "Reach %": 14.29,
+        "Frequency": 42,
+        "Frequency Ratio": 1.2,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "answer incoming calls+interact with users to gather requirements",
+        "Skills": [
+            "answer incoming calls",
+            "interact with users to gather requirements"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04",
+            "http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363"
+        ],
+        "Reach": 34,
+        "Reach %": 13.88,
+        "Frequency": 43,
+        "Frequency Ratio": 1.26,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "answer incoming calls+negotiate compromises",
+        "Skills": [
+            "answer incoming calls",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/5a0bffcf-4ff6-49cf-a7db-4142e63f5f04",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 33,
+        "Reach %": 13.47,
+        "Frequency": 43,
+        "Frequency Ratio": 1.3,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "pharmaceutical industry+perform quality audits",
+        "Skills": [
+            "pharmaceutical industry",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/a1c72d66-3671-4a8e-840d-e8b28e237b6f",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 32,
+        "Reach %": 13.06,
+        "Frequency": 44,
+        "Frequency Ratio": 1.38,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "production processes+perform quality audits",
+        "Skills": [
+            "production processes",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/12c7b323-d870-4f5b-9d7d-d9f525206d77",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 31,
+        "Reach %": 12.65,
+        "Frequency": 51,
+        "Frequency Ratio": 1.65,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "sales activities+negotiate compromises",
+        "Skills": [
+            "sales activities",
+            "negotiate compromises"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/450de541-797a-4da0-9fe4-a81471c8047d",
+            "http://data.europa.eu/esco/skill/7954861c-86d4-4529-afbb-2c23dab9ac74"
+        ],
+        "Reach": 31,
+        "Reach %": 12.65,
+        "Frequency": 44,
+        "Frequency Ratio": 1.42,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+promote health and safety",
+        "Skills": [
+            "hygiene in a health care setting",
+            "promote health and safety"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50"
+        ],
+        "Reach": 28,
+        "Reach %": 11.43,
+        "Frequency": 46,
+        "Frequency Ratio": 1.64,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "ensure compliance with company regulations+perform quality audits",
+        "Skills": [
+            "ensure compliance with company regulations",
+            "perform quality audits"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d",
+            "http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241"
+        ],
+        "Reach": 27,
+        "Reach %": 11.02,
+        "Frequency": 47,
+        "Frequency Ratio": 1.74,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+packaging functions",
+        "Skills": [
+            "hygiene in a health care setting",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 26,
+        "Reach %": 10.61,
+        "Frequency": 44,
+        "Frequency Ratio": 1.69,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+study a collection",
+        "Skills": [
+            "hygiene in a health care setting",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 26,
+        "Reach %": 10.61,
+        "Frequency": 44,
+        "Frequency Ratio": 1.69,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "hygiene in a health care setting+control production",
+        "Skills": [
+            "hygiene in a health care setting",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/0450eaee-1a00-4622-8f4e-5356fce816d2",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 26,
+        "Reach %": 10.61,
+        "Frequency": 44,
+        "Frequency Ratio": 1.69,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "promote health and safety+packaging functions",
+        "Skills": [
+            "promote health and safety",
+            "packaging functions"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50",
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16"
+        ],
+        "Reach": 24,
+        "Reach %": 9.8,
+        "Frequency": 42,
+        "Frequency Ratio": 1.75,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "promote health and safety+study a collection",
+        "Skills": [
+            "promote health and safety",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 24,
+        "Reach %": 9.8,
+        "Frequency": 42,
+        "Frequency Ratio": 1.75,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "promote health and safety+control production",
+        "Skills": [
+            "promote health and safety",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 24,
+        "Reach %": 9.8,
+        "Frequency": 42,
+        "Frequency Ratio": 1.75,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "packaging functions+study a collection",
+        "Skills": [
+            "packaging functions",
+            "study a collection"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16",
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82"
+        ],
+        "Reach": 22,
+        "Reach %": 8.98,
+        "Frequency": 40,
+        "Frequency Ratio": 1.82,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "packaging functions+control production",
+        "Skills": [
+            "packaging functions",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/8c3ac8d1-5349-45bb-9006-e073ee3b5d16",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 22,
+        "Reach %": 8.98,
+        "Frequency": 40,
+        "Frequency Ratio": 1.82,
+        "Combination Number": 2
+    },
+    {
+        "Combination": "study a collection+control production",
+        "Skills": [
+            "study a collection",
+            "control production"
+        ],
+        "Skill IDs": [
+            "http://data.europa.eu/esco/skill/db27065e-3c06-4f89-aa55-48fd87dabf82",
+            "http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db"
+        ],
+        "Reach": 22,
+        "Reach %": 8.98,
+        "Frequency": 40,
+        "Frequency Ratio": 1.82,
+        "Combination Number": 2
+    }
+]
